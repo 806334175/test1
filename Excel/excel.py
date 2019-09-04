@@ -98,7 +98,7 @@ def offer_test(track_url, area, appid):
     while True:
 
         # print(track_url)
-        if track_url.find('ttp') > -1 and track_url.find('itunes') == -1:
+        if track_url.find('ttp') > -1 and track_url.find('apple.com') == -1:
             # print(bb.find('ttp'))
             track_url = get_redirect_url(track_url, super_proxy_url)
         # print("继续跳转")
@@ -144,8 +144,10 @@ if __name__ == '__main__':
     threads.append(t2)
     t3 = threading.Thread(target=test_url, args=(2,))
     threads.append(t3)
-    # t4 = threading.Thread(target=test_url, args=(3,))
-    # t5 = threading.Thread(target=test_url, args=(4,))
+    t4 = threading.Thread(target=test_url, args=(3,))
+    threads.append(t4)
+    t5 = threading.Thread(target=test_url, args=(4,))
+    threads.append(t5)
     # t6 = threading.Thread(target=test_url, args=(5,))
     # t7 = threading.Thread(target=test_url, args=(6,))
     # t8 = threading.Thread(target=test_url, args=(7,))
@@ -155,8 +157,8 @@ if __name__ == '__main__':
     t1.start()
     t2.start()
     t3.start()
-    # t4.start()
-    # t5.start()
+    t4.start()
+    t5.start()
     # t6.start()
     # t7.start()
     # t8.start()
