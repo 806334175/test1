@@ -5,11 +5,9 @@ import json
 
 dic = {'name': 'alvin', 'age': 23, 'sex': 'male'}
 print(type(dic))  # <class 'dict'>
-
+# -----------------------------序列化<br>
 j = json.dumps(dic)
 print(type(j))  # <class 'str'>
-
-# -----------------------------序列化<br>
 f = open('序列化对象', 'w')
 f.write(j)  # -------------------等价于json.dump(dic,f)
 f.close()
@@ -28,3 +26,5 @@ print(json.loads(dct))
 
 # conclusion:
 #        无论数据是怎样创建的，只要满足json格式，就可以json.loads出来,不一定非要dumps的数据才能loads
+
+
