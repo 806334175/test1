@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import random
-
 from bs4 import BeautifulSoup
 import os
 import requests
