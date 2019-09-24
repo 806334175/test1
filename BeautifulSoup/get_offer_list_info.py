@@ -99,7 +99,7 @@ if __name__ == '__main__':
     list_preview_url = []
 
     for i in range(getpage(token, size)):
-        getinfolistbypage(token, i+1, size)
+        getinfolistbypage(token, i + 1, size)
 
     num = 1
     rb = xlrd.open_workbook(filename=file)
@@ -107,16 +107,16 @@ if __name__ == '__main__':
     sheet1 = wb.get_sheet(0)
 
     for i in list_id:
-        sheet1.write(num, 0, list_id[num])
-        sheet1.write(num, 1, list_app_name[num])
-        sheet1.write(num, 2, list_app_pack_name[num])
-        sheet1.write(num, 3, list_payout[num])
-        sheet1.write(num, 4, list_cap_daily[num])
-        sheet1.write(num, 5, list_countries[num])
-        sheet1.write(num, 6, list_os[num])
-        sheet1.write(num, 7, list_preview_url[num])
-        sheet1.write(num, 8, list_click_url[num])
+        sheet1.write(num, 0, list_id[num - 1])
+        sheet1.write(num, 1, list_app_name[num - 1])
+        sheet1.write(num, 2, list_app_pack_name[num - 1])
+        sheet1.write(num, 3, list_payout[num - 1])
+        sheet1.write(num, 4, list_cap_daily[num - 1])
+        sheet1.write(num, 5, list_countries[num - 1])
+        sheet1.write(num, 6, list_os[num - 1])
+        sheet1.write(num, 7, list_preview_url[num - 1])
+        sheet1.write(num, 8, list_click_url[num - 1])
         num += 1
 
-    os.remove(file)
-    wb.save(file)
+os.remove(file)
+wb.save(file)

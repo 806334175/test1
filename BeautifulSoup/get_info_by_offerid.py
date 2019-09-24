@@ -67,6 +67,7 @@ def get_cookie():
         url='http://affbb.tbnetwork.im/login',
         data=post_dict
     )
+    print(response)
     res = response.cookies.get_dict()['JSESSIONID']
     return "JSESSIONID=" + res
 
@@ -90,6 +91,7 @@ def check_offer(UserAgent, Cookie, offerid):
             res_price = k["value"]
 
     res = soup.find_all(type="text", class_="col-xs-10 col-sm-9")
+    print(res)
     for k in res:
         try:
             if k["name"] == "packageName":
@@ -106,8 +108,8 @@ def check_offer(UserAgent, Cookie, offerid):
                 res_previewLink = k["value"]
         except KeyError as e:
             res_offer_id = k["value"]
-    print(res_offer_id)
-    # print("[" + offerid + "]packageName：" + res_id + "\n" + "[" + offerid + "]trackUrl：" + res_trackUrl + "\n" + "[" + offerid + "]offer_id:" + res_offer_id)
+
+    print("[" + offerid + "]packageName：" + res_id + "\n" + "[" + offerid + "]trackUrl：" + res_trackUrl + "\n" + "[" + offerid + "]offer_id:" + offerid)
     return res_offerName, res_prodName, res_id, res_price, country, res_previewLink, res_trackUrl
 
 
@@ -122,6 +124,7 @@ def check_begin(cookie, offer_id, num):
             write_excel(0, num, ww, i)
         finally:
             lock.release()
+            # pass
         ww += 1
 
 
@@ -131,6 +134,7 @@ if __name__ == '__main__':
     list_offer_id = read_cols_excel(0, 0)
     num = 0
     for key in list_offer_id:
-        threading.Thread(target=check_begin, args=(cookie, list_offer_id[num], num,)).start()
-        time.sleep(2)
+        print(str(list_offer_id[num])+"ok")
+        threading.Thread(target=check_begin, args=(cookie, str(list_offer_id[num]), num,)).start()
+        # time.sleep(2)
         num = num + 1

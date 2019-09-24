@@ -2,68 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b58d2a15-1d45-4621-808d-d02d51b86297" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BeautifulSoup/get_info_by_offerid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeautifulSoup/get_offer_list_info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/Logger与Handler的级别.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/Logger的继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/all2.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/django_logging配置.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/jc1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/jc2.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/jc3.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/logging使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/logging对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/logging配置文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/test.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/re模块/re的方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/re模块/re补充.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/re模块/正则匹配模式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket模块/socket_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt-0.9.1.dist-info/AUTHORS.rst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt-0.9.1.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt-0.9.1.dist-info/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt-0.9.1.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt-0.9.1.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt-0.9.1.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt-0.9.1.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/adapters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/adapters/appengine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/adapters/fingerprint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/adapters/host_header_ssl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/adapters/socket_options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/adapters/source.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/adapters/ssl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/adapters/x509.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/auth/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/auth/_digest_auth_compat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/auth/guess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/auth/handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/auth/http_proxy_digest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/cookies/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/cookies/forgetful.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/downloadutils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/downloadutils/stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/downloadutils/tee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/multipart/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/multipart/decoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/multipart/encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/sessions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/streaming_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/threaded/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/threaded/pool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/threaded/thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/utils/deprecated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/utils/dump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/utils/formdata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/requests_toolbelt/utils/user_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socket模块/解决tcp粘包.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BeautifulSoup/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeautifulSoup/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logging/t1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logging/t1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logging/t2.log" beforeDir="false" afterPath="$PROJECT_DIR$/logging/t2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeautifulSoup/get_info_by_offerid.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeautifulSoup/get_info_by_offerid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeautifulSoup/get_offer_list_info" beforeDir="false" afterPath="$PROJECT_DIR$/BeautifulSoup/get_offer_list_info.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,8 +34,8 @@
     <SUITE FILE_PATH="coverage/test1$xml_info.coverage" NAME="xml_info Coverage Results" MODIFIED="1568009949633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml模块" />
     <SUITE FILE_PATH="coverage/test1$logging_Overall.coverage" NAME="logging_Overall Coverage Results" MODIFIED="1568170167093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging" />
     <SUITE FILE_PATH="coverage/test1$time.coverage" NAME="time Coverage Results" MODIFIED="1567747413913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/time与datetime模块" />
-    <SUITE FILE_PATH="coverage/test1$test.coverage" NAME="test Coverage Results" MODIFIED="1568268342520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BeautifulSoup" />
     <SUITE FILE_PATH="coverage/test1$.coverage" NAME="正则匹配模式 Coverage Results" MODIFIED="1568968536774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re模块" />
+    <SUITE FILE_PATH="coverage/test1$test.coverage" NAME="test Coverage Results" MODIFIED="1569226860890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/check_offer_track_exe" />
     <SUITE FILE_PATH="coverage/test1$Test01.coverage" NAME="Test01 Coverage Results" MODIFIED="1558416476686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象" />
     <SUITE FILE_PATH="coverage/test1$random_test.coverage" NAME="random_test Coverage Results" MODIFIED="1567748499343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random模块" />
     <SUITE FILE_PATH="coverage/test1$logging_info.coverage" NAME="logging_info Coverage Results" MODIFIED="1568169645556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging" />
@@ -103,9 +45,10 @@
     <SUITE FILE_PATH="coverage/test1$logging.coverage" NAME="logging使用 Coverage Results" MODIFIED="1568967601430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging" />
     <SUITE FILE_PATH="coverage/test1$random.coverage" NAME="random Coverage Results" MODIFIED="1567748224881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/random模块" />
     <SUITE FILE_PATH="coverage/test1$xml_test.coverage" NAME="xml_test Coverage Results" MODIFIED="1565076852447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xml处理" />
-    <SUITE FILE_PATH="coverage/test1$get_info_by_offerid.coverage" NAME="get_info_by_offerid Coverage Results" MODIFIED="1568864046101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BeautifulSoup" />
+    <SUITE FILE_PATH="coverage/test1$get_info_by_offerid.coverage" NAME="get_info_by_offerid Coverage Results" MODIFIED="1569291992027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BeautifulSoup" />
     <SUITE FILE_PATH="coverage/test1$sys_info.coverage" NAME="sys_info Coverage Results" MODIFIED="1567750045767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sys模块" />
     <SUITE FILE_PATH="coverage/test1$111.coverage" NAME="111 Coverage Results" MODIFIED="1567648513781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Excel/ 111" />
+    <SUITE FILE_PATH="coverage/test1$get_offer_list_info__1_.coverage" NAME="get_offer_list_info (1) Coverage Results" MODIFIED="1569226012179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BeautifulSoup" />
     <SUITE FILE_PATH="coverage/test1$os_info.coverage" NAME="os_info Coverage Results" MODIFIED="1567749231735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/os模块" />
     <SUITE FILE_PATH="coverage/test1$json_info.coverage" NAME="json_info Coverage Results" MODIFIED="1568008078236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/json&amp;pickle模块" />
     <SUITE FILE_PATH="coverage/test1$shutil_info.coverage" NAME="shutil_info Coverage Results" MODIFIED="1567755448488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shutil模块" />
@@ -134,89 +77,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logging/logging配置文件.py">
+        <entry file="file://$PROJECT_DIR$/socket模块/socket_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+            <state relative-caret-position="184">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/subprocess模块/subprocess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../change911/Main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/socket模块/解决tcp粘包.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BeautifulSoup/get_offer_list_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="109" column="46" lean-forward="true" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
               <folding>
-                <element signature="e#67#76#0" expanded="true" />
+                <element signature="e#47#60#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logging/logging使用.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#71#82#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logging/logging对象.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logging/django_logging配置.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-847">
-              <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-              <folding>
-                <element signature="e#47#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/re模块/正则匹配模式.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1633">
-              <caret line="89" column="111" lean-forward="true" selection-start-line="89" selection-start-column="111" selection-end-line="89" selection-end-column="111" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/re模块/re的方法.py">
+        <entry file="file://$PROJECT_DIR$/BeautifulSoup/get_info_by_offerid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="252">
+              <caret line="66" column="46" lean-forward="true" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+              <folding>
+                <element signature="e#47#60#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/re模块/re补充.py">
+        <entry file="file://$PROJECT_DIR$/BeautifulSoup/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+            <state relative-caret-position="850">
+              <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+              <folding>
+                <element signature="e#46#59#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logging/F_H_L_F_info.py">
+        <entry file="file://$USER_HOME$/Desktop/check_offer_track_exe/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1035">
-              <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+            <state relative-caret-position="2346">
+              <caret line="135" column="14" lean-forward="true" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
+              <folding>
+                <element signature="e#46#59#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logging/all2.log">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -250,6 +191,7 @@
       <find>class=&quot;row&quot;</find>
       <find>col-xs-12</find>
       <find>dataTables_scroll</find>
+      <find>lock</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -258,9 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Excel/excel.py" />
-        <option value="$PROJECT_DIR$/Excel/111/111.py" />
-        <option value="$USER_HOME$/Desktop/lum.py" />
         <option value="$PROJECT_DIR$/Excel/ 111/111.py" />
         <option value="$PROJECT_DIR$/Excel/ 111/test.py" />
         <option value="$PROJECT_DIR$/time与datetime模块/datetame.py" />
@@ -297,7 +236,6 @@
         <option value="$PROJECT_DIR$/socket模块/socket_info.py" />
         <option value="$PROJECT_DIR$/logging/F_H_L_F_info.py" />
         <option value="$PROJECT_DIR$/BeautifulSoup/test.py" />
-        <option value="$PROJECT_DIR$/BeautifulSoup/get_info_by_offerid.py" />
         <option value="$PROJECT_DIR$/logging/Logger与Handler的级别.py" />
         <option value="$PROJECT_DIR$/logging/Logger的继承.py" />
         <option value="$PROJECT_DIR$/BeautifulSoup/get_info_by packname.py" />
@@ -309,6 +247,10 @@
         <option value="$PROJECT_DIR$/re模块/正则匹配模式.py" />
         <option value="$PROJECT_DIR$/re模块/re的方法.py" />
         <option value="$PROJECT_DIR$/re模块/re补充.py" />
+        <option value="$PROJECT_DIR$/socket模块/解决tcp粘包.py" />
+        <option value="$USER_HOME$/Desktop/check_offer_track_exe/test.py" />
+        <option value="$PROJECT_DIR$/BeautifulSoup/get_offer_list_info.py" />
+        <option value="$PROJECT_DIR$/BeautifulSoup/get_info_by_offerid.py" />
       </list>
     </option>
   </component>
@@ -323,7 +265,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -418,6 +359,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -449,7 +391,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.正则匹配模式">
+  <component name="RunManager" selected="Python.get_info_by_offerid">
     <configuration name="正则匹配模式" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -472,7 +414,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_info_by packname" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_info_by_offerid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -485,7 +427,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\PythonCode\test1\BeautifulSoup\get_offer_list_info" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BeautifulSoup/get_info_by_offerid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -494,7 +436,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_offer_list_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="get_offer_list_info (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -507,7 +449,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BeautifulSoup/get_offer_list_info" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BeautifulSoup/get_offer_list_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -560,13 +502,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/check_offer_track_exe" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/check_offer_track_exe/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_info_by_offerid" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.get_offer_list_info (1)" />
         <item itemvalue="Python.正则匹配模式" />
-        <item itemvalue="Python.logging使用" />
         <item itemvalue="Python.logging配置文件" />
-        <item itemvalue="Python.get_offer_list_info" />
-        <item itemvalue="Python.get_info_by packname" />
       </list>
     </recent_temporary>
   </component>
@@ -609,7 +573,8 @@
       <workItem from="1568110680107" duration="22004000" />
       <workItem from="1568271445488" duration="2489000" />
       <workItem from="1568609270472" duration="20498000" />
-      <workItem from="1568880170210" duration="15902000" />
+      <workItem from="1568880170210" duration="17854000" />
+      <workItem from="1569223815636" duration="8379000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1567491926970</created>
@@ -702,11 +667,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568272093363</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="20190923">
+      <created>1569204385554</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1569204385554</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185058000" />
+    <option name="totallyTimeSpent" value="195389000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -718,14 +690,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913646" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19349681" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.18112798" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" weight="0.41323212" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.47288504" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -794,32 +766,12 @@
     <MESSAGE value="test4" />
     <MESSAGE value="test5" />
     <MESSAGE value="20190912" />
-    <option name="LAST_COMMIT_MESSAGE" value="20190912" />
+    <MESSAGE value="20190923" />
+    <option name="LAST_COMMIT_MESSAGE" value="20190923" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hashlib模块/hash_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hashlib模块/hmac_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/configparser模块/b.cfg">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subprocess模块/subprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/configparser模块/example.ini">
       <provider selected="true" editor-type-id="text-editor">
@@ -903,20 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../change911/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket模块/socket_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BeautifulSoup/beautifulsoup_info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="679">
@@ -962,26 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BeautifulSoup/get_info_by_offerid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="128" column="25" lean-forward="true" selection-end-line="136" />
-          <folding>
-            <element signature="e#47#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BeautifulSoup/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2806">
-          <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
-          <folding>
-            <element signature="e#46#59#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1044,16 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BeautifulSoup/get_offer_list_info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1914">
-          <caret line="117" column="43" selection-start-line="117" selection-start-column="34" selection-end-line="117" selection-end-column="43" />
-          <folding>
-            <element signature="e#47#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logging/Logger与Handler的级别.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -1094,7 +1002,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/logging/logging使用.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="521">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="e#71#82#0" expanded="true" />
@@ -1113,16 +1021,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
           <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logging/logging配置文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
-          <folding>
-            <element signature="e#67#76#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1154,6 +1052,84 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logging/logging配置文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding>
+            <element signature="e#67#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket模块/socket_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subprocess模块/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../change911/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket模块/解决tcp粘包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/check_offer_track_exe/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="135" column="14" lean-forward="true" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
+          <folding>
+            <element signature="e#46#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautifulSoup/get_offer_list_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="109" column="46" lean-forward="true" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
+          <folding>
+            <element signature="e#47#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautifulSoup/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+          <folding>
+            <element signature="e#46#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeautifulSoup/get_info_by_offerid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="66" column="46" lean-forward="true" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+          <folding>
+            <element signature="e#47#60#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
