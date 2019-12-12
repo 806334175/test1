@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5074" />
+<item key="google_adid" value="c3e75fb4-e923-4a7c-8cae-d1c3660300e7" />
+<item key="build_id" value="NRD90U" />
+<item key="build_display" value="IMM76D" />
+<item key="build_incremental" value="82967000C6" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="H872" />
+<item key="build_brand" value="LG" />
+<item key="build_product" value="G6
+" />
+<item key="build_device" value="BC696" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="LG/G6
+/BC696:7.0/NRD90U/82967000C6:user/user" />
+<item key="build_serial" value="H872" />
+<item key="build_hardware" value="H872" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="6be0c077b76cf699" />
+<item key="tele_getdeviceid" value="060821755013475" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="HK" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="13" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="HK" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89084868224270998025" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="226585877655965" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; LG-H872 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="fb:06:4f:63:28:0c" />
+<item key="wifiinfo_getmacaddress" value="34:f6:2d:4c:6c:9c" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="e441fb92e" />
+<item key="status" value="t" />
+</phones>

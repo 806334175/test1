@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4342" />
+<item key="google_adid" value="a409f8c4-8134-4329-9973-b898dc758197" />
+<item key="build_id" value="NRD90U" />
+<item key="build_display" value="JOP40C" />
+<item key="build_incremental" value="63005DD8" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="US215" />
+<item key="build_brand" value="LG" />
+<item key="build_product" value="K8 (2017)
+" />
+<item key="build_device" value="7D95C" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="LG/K8 (2017)
+/7D95C:7.0/NRD90U/63005DD8:user/user" />
+<item key="build_serial" value="US215" />
+<item key="build_hardware" value="US215" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="1a270dcfd65ed0e3" />
+<item key="tele_getdeviceid" value="043457184181628" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45008" />
+<item key="tele_getnetworkoperatorname" value="Korea Telecom" />
+<item key="tele_getnetworktype" value="8" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45008" />
+<item key="tele_getsimoperatorname" value="Korea Telecom" />
+<item key="tele_getsimserialnumber" value="89056153886413466574" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="397444701212990" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; LGUS215 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="12:15:89:03:ab:43" />
+<item key="wifiinfo_getmacaddress" value="2c:54:cf:f1:98:0d" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="726faf862b" />
+<item key="status" value="t" />
+</phones>

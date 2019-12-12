@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3184" />
+<item key="google_adid" value="56fcb66a-84ac-40d0-9fac-391a955adf6f" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="IMM76I" />
+<item key="build_incremental" value="3E5F" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G925P" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S6 Edge
+" />
+<item key="build_device" value="66D48" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S6 Edge
+/66D48:7.0/NRD90M/3E5F:user/user" />
+<item key="build_serial" value="SM-G925P" />
+<item key="build_hardware" value="SM-G925P" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="204f8fdf0ed08a39" />
+<item key="tele_getdeviceid" value="786646026041832" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="HK" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="13" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="HK" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89004266121937367178" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="478371458734044" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SM-G925P Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="66:9a:6a:b3:da:a0" />
+<item key="wifiinfo_getmacaddress" value="00:0a:28:1e:69:8b" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="f9a63c1deff6" />
+<item key="status" value="t" />
+</phones>

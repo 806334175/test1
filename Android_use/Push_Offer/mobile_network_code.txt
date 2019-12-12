@@ -1,0 +1,1610 @@
+{
+	"PL": {
+		"26003": "IDEA",
+		"26002": "EraGSM",
+		"26001": "PlusGSM"
+	},
+	"KR": {
+		"45002": "KT",
+		"45004": "KT",
+		"45006": "LG Telecom",
+		"45008": "KT",
+		"45005": "SK Telecom"
+	},
+	"BE": {
+		"20620": "Orange",
+		"20601": "Proximus",
+		"20610": "Mobistar"
+	},
+	"EE": {
+		"24802": "RLE",
+		"24803": "QGSM",
+		"24801": "EMTGSM"
+	},
+	"DE": {
+		"26203": "E-Plus",
+		"26201": "T-Mobile",
+		"26213": "Mobilcom",
+		"26202": "VodafoneD2",
+		"26207": "O2-DE"
+	},
+	"UNKNOWN_COUNTRY_CODE": {
+		"45503": "HTMacau",
+		"90105": "Thuraya",
+		"64301": "mCel",
+		"45501": "CTMGSM",
+		"64502": "TELECEL",
+		"64501": "ZAMCELL",
+		"31601": "Nextel",
+		"31114": "Sprocket",
+		"45500": "SmarTone"
+	},
+	"IE": {
+		"27203": "METEOR",
+		"27202": "O2-IRL",
+		"27201": "VodafoneIRL"
+	},
+	"PT": {
+		"26801": "Vodafone",
+		"26803": "OPTIMUS",
+		"26806": "TMN"
+	},
+	"AE": {
+		"42402": "ETISALAT"
+	},
+	"AM": {
+		"28301": "ARMGSM"
+	},
+	"CM": {
+		"62402": "MOBILIS",
+		"62401": "MTN-CAM"
+	},
+	"HU": {
+		"21601": "PannonGSM",
+		"21630": "Westel",
+		"21670": "Vodafone"
+	},
+	"MU": {
+		"61710": "EMTEL",
+		"61701": "CELLPLUS"
+	},
+	"FM": {
+		"55001": "FSM"
+	},
+	"AU": {
+		"50503": "Vodafone",
+		"50501": "MobileNet",
+		"50508": "One.Tel",
+		"50502": "OPTUS"
+	},
+	"MD": {
+		"25901": "VOXTEL",
+		"25902": "MOLDCELL"
+	},
+	"MM": {
+		"41401": "MM900"
+	},
+	"OM": {
+		"42202": "OMANMOBILE"
+	},
+	"VU": {
+		"54101": "SMILE",
+		"54100": "ACeS"
+	},
+	"YU": {
+		"22004": "MONET",
+		"22002": "ProMonte",
+		"22003": "TelekomSrbija",
+		"22001": "MOBTEL"
+	},
+	"TM": {
+		"43801": "BCTI"
+	},
+	"RU": {
+		"25044": "NC-GSM",
+		"25010": "DTC",
+		"25093": "JSCTelecomXXI",
+		"25001": "MTS",
+		"25005": "SCS",
+		"25003": "NCC",
+		"25016": "NTC",
+		"25002": "NorthWestGSM",
+		"25028": "EXTEL",
+		"25039": "Uraltel",
+		"25092": "Primtel",
+		"25017": "ErmakRMS",
+		"25099": "BeeLine",
+		"25091": "SonicDuo",
+		"25012": "FarEast",
+		"25007": "SMARTS",
+		"25011": "Orensot",
+		"25013": "KubanGSM"
+	},
+	"BN": {
+		"52811": "BRUTSTCom"
+	},
+	"CN": {
+		"46001": "CHN-CUGSM",
+		"46000": "CHINAMOBILE",
+		"46002": "CHINAMOBILE"
+	},
+	"AN": {
+		"36251": "TelcellGSM"
+	},
+	"LV": {
+		"24702": "BALTCOM",
+		"24701": "LMTGSM"
+	},
+	"MV": {
+		"47201": "DHIMOBILE"
+	},
+	"YE": {
+		"42102": "Spacetel"
+	},
+	"KE": {
+		"63902": "Safaricom",
+		"63903": "KENCELL"
+	},
+	"IN": {
+		"40449": "Airtel",
+		"40414": "Spice",
+		"40484": "Hutch",
+		"40472": "Cellone",
+		"40430": "Hutch",
+		"40480": "Cellone",
+		"40460": "Hutch",
+		"40444": "Spice",
+		"40476": "Cellone",
+		"40478": "IDEA",
+		"40411": "Hutch",
+		"40489": "IDEA",
+		"40445": "Airtel",
+		"40453": "Cellone",
+		"40412": "IDEA",
+		"40477": "Cellone",
+		"40552": "Airtel",
+		"40459": "Cellone",
+		"40492": "Airtel",
+		"40454": "Cellone",
+		"40418": "Reliance",
+		"40490": "Airtel",
+		"40475": "Cellone",
+		"40410": "Airtel",
+		"40498": "Airtel",
+		"40419": "IDEA",
+		"40441": "RPG",
+		"40556": "Airtel",
+		"40452": "Reliance",
+		"40407": "IDEA",
+		"40455": "Cellone",
+		"40437": "Aircel",
+		"40413": "Hutch",
+		"40471": "Cellone",
+		"40462": "Cellone",
+		"40467": "Reliance",
+		"40421": "BPLMobile",
+		"40466": "Cellone",
+		"40486": "Hutch",
+		"40555": "Airtel",
+		"40424": "IDEA",
+		"40469": "MTNL",
+		"40566": "Hutch",
+		"40554": "Airtel",
+		"40553": "Airtel",
+		"40401": "Hutch",
+		"40551": "Airtel",
+		"40497": "Airtel",
+		"40496": "Airtel",
+		"40495": "Airtel",
+		"40494": "Airtel",
+		"40493": "Airtel",
+		"40434": "Cellone",
+		"40488": "Hutch",
+		"40457": "Cellone",
+		"40427": "Hutch",
+		"40487": "IDEA",
+		"40443": "Hutch",
+		"40403": "Airtel",
+		"40436": "Reliance",
+		"40483": "Reliance",
+		"40409": "Reliance",
+		"40481": "Cellone",
+		"40482": "IDEA",
+		"40431": "Airtel",
+		"40415": "Hutch",
+		"40479": "Cellone",
+		"40440": "Airtel",
+		"40420": "Hutch",
+		"40402": "Airtel",
+		"40404": "IDEA",
+		"40422": "IDEA",
+		"40474": "Cellone",
+		"40473": "Cellone",
+		"40438": "Cellone",
+		"40405": "Hutch",
+		"40446": "Hutch",
+		"40416": "Airtel",
+		"40468": "DOLPHIN",
+		"40470": "Airtel",
+		"40451": "Cellone",
+		"40567": "Hutch",
+		"40456": "IDEA",
+		"40464": "Cellone",
+		"40450": "Reliance",
+		"40458": "Cellone",
+		"40429": "Aircel",
+		"40485": "Reliance"
+	},
+	"NE": {
+		"61402": "CELTEL"
+	},
+	"MN": {
+		"42899": "MobiCom"
+	},
+	"HK": {
+		"45401": "NEWWORLD",
+		"45402": "CSL",
+		"45412": "PEOPLES",
+		"45418": "HKTELECOM",
+		"45400": "CSL",
+		"45416": "SUNDAY",
+		"45404": "Orange",
+		"45406": "SMC",
+		"45410": "NEWWORLD"
+	},
+	"SR": {
+		"74601": "ICMS"
+	},
+	"TR": {
+		"28604": "AYCELL",
+		"28602": "TELSIM",
+		"28603": "ARIA",
+		"28601": "TURKCELL"
+	},
+	"DK": {
+		"23830": "Orange",
+		"23802": "SONOFON",
+		"23820": "Telia",
+		"23801": "TDK-MOBIL"
+	},
+	"UZ": {
+		"43405": "Coscom",
+		"43402": "Uzmacom",
+		"43401": "Buztel",
+		"43404": "UZBDAEWOO-GSM"
+	},
+	"SZ": {
+		"65310": "SwaziMTN"
+	},
+	"TZ": {
+		"64003": "ZANTEL",
+		"64004": "Vodacom",
+		"64001": "TRITEL",
+		"64005": "CELTEL",
+		"64002": "MobiTel"
+	},
+	"MZ": {
+		"63401": "MobiTel"
+	},
+	"NZ": {
+		"53001": "Vodafone"
+	},
+	"ES": {
+		"21401": "VodafoneE",
+		"21404": "Xfera",
+		"21407": "MoviStar",
+		"21402": "MoviStar",
+		"21403": "AMENA"
+	},
+	"AS": {
+		"54411": "BlueSky"
+	},
+	"LB": {
+		"41503": "LibanCell",
+		"41501": "Cellis"
+	},
+	"LS": {
+		"65101": "Vodacom"
+	},
+	"IS": {
+		"27401": "SIMINN",
+		"27402": "TAL",
+		"27404": "Viking"
+	},
+	"BD": {
+		"47019": "Mobile2000",
+		"47003": "ShebaWorld",
+		"47002": "AKTEL",
+		"47001": "GrameemPhone"
+	},
+	"US": {
+		"31035": "Carolina",
+		"31061": "EpicTouch",
+		"31018": "Cingular",
+		"31041": "Cingular",
+		"31079": "PinPoint",
+		"31016": "T-Mobile",
+		"31063": "AmeriLink",
+		"31074": "Telemetrix",
+		"31067": "Wireless2000",
+		"31046": "TMPCorp",
+		"31058": "T-Mobile",
+		"31038": "AT&TWireless",
+		"31069": "Conestoga",
+		"31015": "Cingular",
+		"31076": "PTSI",
+		"31080": "T-Mobile",
+		"31022": "T-Mobile",
+		"31066": "T-Mobile",
+		"31011": "Wireless2000",
+		"31021": "T-Mobile",
+		"31001": "Cellnet",
+		"31034": "WestLink",
+		"31027": "T-Mobile",
+		"31031": "T-Mobile",
+		"31098": "AWS",
+		"31023": "T-Mobile",
+		"31078": "AirlinkPCS",
+		"31020": "T-Mobile",
+		"31077": "IowaWireless",
+		"31068": "NPIWireless",
+		"31026": "T-Mobile",
+		"31064": "EinsteinPCS",
+		"31024": "T-Mobile",
+		"31017": "Cingular",
+		"31025": "T-Mobile"
+	},
+	"ID": {
+		"51008": "LIPPOTEL",
+		"51021": "INDOSAT",
+		"51011": "GSM-XL",
+		"51010": "TELKOMSEL",
+		"51000": "ACeS",
+		"51001": "SATELINDOCEL"
+	},
+	"AD": {
+		"21303": "Mobiland"
+	},
+	"AL": {
+		"27602": "Vodafone",
+		"27601": "AMC"
+	},
+	"IT": {
+		"22298": "BluSpA",
+		"22201": "TIM",
+		"22288": "WIND",
+		"22210": "VodafoneIT"
+	},
+	"NC": {
+		"54601": "MOBILIS"
+	},
+	"SK": {
+		"23102": "EUROTEL",
+		"23101": "GLOBTEL"
+	},
+	"LT": {
+		"24601": "OMNITEL",
+		"24602": "BiteGSM",
+		"24603": "TELE2"
+	},
+	"MT": {
+		"27801": "VodafoneMalta",
+		"27821": "gomobile"
+	},
+	"PK": {
+		"41001": "Mobilink"
+	},
+	"IL": {
+		"42501": "Orange",
+		"42505": "JAWWAL"
+	},
+	"AT": {
+		"23207": "tele.ring",
+		"23205": "ONE",
+		"23203": "T-Mobile",
+		"23201": "A1"
+	},
+	"LK": {
+		"41303": "CELLTEL",
+		"41302": "DIALOG"
+	},
+	"ML": {
+		"61001": "MALITEL"
+	},
+	"NL": {
+		"20412": "O2-NL",
+		"20408": "KPN",
+		"20404": "VodafoneNL",
+		"20420": "dutchtone",
+		"20416": "Ben"
+	},
+	"SC": {
+		"63310": "AIRTEL",
+		"63301": "SEYCEL"
+	},
+	"FI": {
+		"24405": "RADIOLINJA",
+		"24491": "SONERA",
+		"24414": "AMT",
+		"24403": "Telia",
+		"24409": "FINNET",
+		"24412": "2G"
+	},
+	"BA": {
+		"21890": "GSMBiH",
+		"21805": "MobilnaSrpska",
+		"21803": "ERONET"
+	},
+	"GI": {
+		"26601": "GIBTEL"
+	},
+	"BI": {
+		"64202": "SAFARIS",
+		"64201": "Spacetel"
+	},
+	"CI": {
+		"61203": "Ivoiris",
+		"61201": "CORA",
+		"61205": "TELECEL"
+	},
+	"GA": {
+		"62801": "LIBERTIS",
+		"62802": "GOCeltel",
+		"62803": "CELTEL"
+	},
+	"CA": {
+		"30272": "RogersAT&T",
+		"30237": "Microcell"
+	},
+	"TH": {
+		"52020": "ACeS",
+		"52018": "WP-1800",
+		"52099": "Orange",
+		"52023": "HELLO",
+		"52001": "AISGSM",
+		"52015": "ACTMobile"
+	},
+	"BY": {
+		"25701": "VELCOM"
+	},
+	"CY": {
+		"28001": "CYTAGSM"
+	},
+	"KH": {
+		"45602": "SAMART-GSM",
+		"45601": "MobiTel"
+	},
+	"FJ": {
+		"54201": "Vodafone"
+	},
+	"BJ": {
+		"61602": "TelecelBenin",
+		"61603": "BENINCELL",
+		"61601": "LIBERCOM"
+	},
+	"GB": {
+		"23455": "GUERNSEYTEL",
+		"23410": "O2-UK",
+		"23458": "MANX",
+		"23450": "JTGSM",
+		"23430": "T-MobileUK",
+		"23431": "T-MobileUK",
+		"23432": "T-MobileUK",
+		"23433": "Orange",
+		"23415": "Vodafone"
+	},
+	"SY": {
+		"41709": "MOBILESYRIA",
+		"41702": "Spacetel"
+	},
+	"MY": {
+		"50216": "DiGi",
+		"50213": "TMTouch",
+		"50219": "CELCOM",
+		"50217": "ADAM",
+		"50212": "MaxisMobile"
+	},
+	"PY": {
+		"74402": "PY02",
+		"74401": "VOX"
+	},
+	"KZ": {
+		"40102": "K'CELL",
+		"40101": "K-MOBILE"
+	},
+	"FR": {
+		"20810": "SFR",
+		"20820": "BOUYGTEL",
+		"20801": "Orange"
+	},
+	"QA": {
+		"42701": "QATARNET"
+	},
+	"LA": {
+		"45701": "LAOGSM"
+	},
+	"BR": {
+		"72403": "TIMBRASIL",
+		"72404": "TIMBRASIL",
+		"72416": "BrTCel",
+		"72402": "TIMBRASIL",
+		"72405": "Claro"
+	},
+	"NA": {
+		"64901": "MTC"
+	},
+	"SI": {
+		"29340": "SI.MOBIL",
+		"29341": "MOBITEL"
+	},
+	"CZ": {
+		"23001": "PAEGAS",
+		"23002": "EUROTEL",
+		"23003": "OSKAR"
+	},
+	"DZ": {
+		"60301": "AMN"
+	},
+	"AZ": {
+		"40001": "AZERCELLGSM",
+		"40002": "BAKCELLGSM2000"
+	},
+	"LR": {
+		"61801": "Omega"
+	},
+	"IR": {
+		"43214": "KISH",
+		"43211": "TCI"
+	},
+	"SA": {
+		"42007": "EAE",
+		"42001": "Al-Jawal"
+	},
+	"LI": {
+		"29577": "LITANGO",
+		"29501": "TELECOM",
+		"29502": "MONTEL",
+		"29505": "FL1"
+	},
+	"UA": {
+		"25502": "WellCOM",
+		"25505": "GoldenTelecom",
+		"25501": "UMC",
+		"25503": "Kyivstar"
+	},
+	"EG": {
+		"60201": "MobiNiL",
+		"60202": "CLICKGSM"
+	},
+	"SN": {
+		"60802": "SENTEL",
+		"60801": "ALIZE"
+	},
+	"CG": {
+		"62901": "CELTEL",
+		"62910": "LIBERTIS"
+	},
+	"BG": {
+		"28401": "M-TELGSM"
+	},
+	"VN": {
+		"45202": "VINAFONE",
+		"45201": "MOBIFONE"
+	},
+	"TN": {
+		"60502": "TUNICELL"
+	},
+	"AG": {
+		"34430": "APUAPCS"
+	},
+	"CL": {
+		"73010": "ENTELPCS",
+		"73001": "ENTELPCS"
+	},
+	"SV": {
+		"70601": "PERSONAL",
+		"70602": "DIGICEL"
+	},
+	"VE": {
+		"73402": "DIGITEL",
+		"73401": "INFONET"
+	},
+	"BO": {
+		"73602": "ENTEL",
+		"73601": "NUEVATEL"
+	},
+	"AR": {
+		"72207": "UNIFON",
+		"72235": "PORT-HABLE",
+		"72234": "TelecomPersonal"
+	},
+	"FW": {
+		"34001": "Orange",
+		"34020": "Bouygues"
+	},
+	"MW": {
+		"65010": "CelTel",
+		"65001": "CALLPOINT90"
+	},
+	"FO": {
+		"28801": "FTGSM"
+	},
+	"KW": {
+		"41902": "MTCNet",
+		"41903": "WATANIYA"
+	},
+	"DO": {
+		"37001": "Orange"
+	},
+	"PE": {
+		"71610": "TIM"
+	},
+	"JO": {
+		"41601": "Fastlink",
+		"41677": "MobileCom"
+	},
+	"ZA": {
+		"65507": "CellC(Pty)Ltd",
+		"65501": "Vodacom",
+		"65510": "MTN"
+	},
+	"RE": {
+		"64700": "OrangeReunion",
+		"64710": "SFRReunion"
+	},
+	"PF": {
+		"54720": "VINI"
+	},
+	"NO": {
+		"24202": "NetCom",
+		"24201": "TELENOR"
+	},
+	"ZW": {
+		"64803": "TELECEL",
+		"64801": "NET*ONE",
+		"64804": "ECONET"
+	},
+	"BW": {
+		"65202": "VISTA",
+		"65201": "MASCOM"
+	},
+	"SO": {
+		"63701": "BARAKAAT"
+	},
+	"RO": {
+		"22603": "Cosmorom",
+		"22610": "dialog",
+		"22601": "CONNEX"
+	},
+	"GH": {
+		"62002": "ONEtouch",
+		"62003": "MOBITEL",
+		"62001": "SPACEFON"
+	},
+	"MA": {
+		"60400": "Meditel",
+		"60401": "IAM"
+	},
+	"CV": {
+		"62501": "CPVMOVEL"
+	},
+	"BH": {
+		"42601": "MOBILEPLUS"
+	},
+	"CH": {
+		"22801": "SwissGSM",
+		"22802": "sunrise",
+		"22803": "Orange"
+	},
+	"TO": {
+		"53901": "TongaComm."
+	},
+	"GE": {
+		"28203": "GEO03",
+		"28201": "GEOCELL",
+		"28202": "MagtiGSM"
+	},
+	"ET": {
+		"63601": "ETMTN"
+	},
+	"BM": {
+		"35001": "Telecom"
+	},
+	"PH": {
+		"51503": "SMART",
+		"51505": "Digitel",
+		"51501": "ISLACOM",
+		"51502": "Globe",
+		"51511": "ACeS"
+	},
+	"CD": {
+		"63001": "CELLNET",
+		"63002": "CELTEL",
+		"63004": "CELLCO",
+		"63089": "OASIS"
+	},
+	"TW": {
+		"46601": "FarEasTone",
+		"46693": "MobiTai",
+		"46606": "TUNTEX",
+		"46692": "Chunghwa",
+		"46668": "ACeS",
+		"46699": "TransAsia",
+		"46697": "TWNGSM",
+		"46688": "KGT"
+	},
+	"TD": {
+		"62202": "LIBERTIS",
+		"62201": "CELTEL"
+	},
+	"RW": {
+		"63510": "Rwandacell"
+	},
+	"UG": {
+		"64101": "CelTel",
+		"64111": "UTLTELECEL",
+		"64110": "MTN-UGANDA"
+	},
+	"TG": {
+		"61501": "TOGOCEL"
+	},
+	"SG": {
+		"52502": "ST-GSM1800-SGP",
+		"52504": "SGP-M1-3GSM",
+		"52503": "M1-GSM-SGP",
+		"52505": "STARHUB-SGP",
+		"52501": "ST-GSM-SGP"
+	},
+	"LU": {
+		"27077": "TANGO",
+		"27001": "LUXGSM"
+	},
+	"CU": {
+		"36801": "C_Com"
+	},
+	"BF": {
+		"61302": "CELTEL"
+	},
+	"GN": {
+		"61102": "LAGUI",
+		"61101": "MOBILIS"
+	},
+	"MK": {
+		"29401": "MOBIMAK"
+	},
+	"MG": {
+		"64601": "Madacom",
+		"64602": "ANTARIS"
+	},
+	"SE": {
+		"24007": "IQ",
+		"24001": "TeliaS",
+		"24008": "Vodafone"
+	},
+	"KG": {
+		"43701": "BITEL"
+	},
+	"NP": {
+		"42901": "NTC"
+	},
+	"GR": {
+		"20201": "Cosmote",
+		"20205": "VodafoneGR",
+		"29001": "TELEGreenland",
+		"20210": "TELESTET"
+	},
+	"HR": {
+		"21910": "VIP",
+		"21901": "CRONET"
+	},
+	"JM": {
+		"33805": "Digicel"
+	},
+	"NG": {
+		"62140": "NITELGSM",
+		"62120": "ECONET",
+		"62130": "MTN",
+		"62100": "MTN"
+	}
+} {
+	"PL": {
+		"26003": "IDEA",
+		"26002": "EraGSM",
+		"26001": "PlusGSM"
+	},
+	"BE": {
+		"20620": "Orange",
+		"20601": "Proximus",
+		"20610": "Mobistar"
+	},
+	"EE": {
+		"24802": "RLE",
+		"24803": "QGSM",
+		"24801": "EMTGSM"
+	},
+	"DE": {
+		"26203": "E-Plus",
+		"26201": "T-Mobile",
+		"26213": "Mobilcom",
+		"26202": "VodafoneD2",
+		"26207": "O2-DE"
+	},
+	"UNKNOWN_COUNTRY_CODE": {
+		"45503": "HTMacau",
+		"90105": "Thuraya",
+		"64301": "mCel",
+		"45501": "CTMGSM",
+		"64502": "TELECEL",
+		"64501": "ZAMCELL",
+		"31601": "Nextel",
+		"31114": "Sprocket",
+		"45500": "SmarTone"
+	},
+	"IE": {
+		"27203": "METEOR",
+		"27202": "O2-IRL",
+		"27201": "VodafoneIRL"
+	},
+	"PT": {
+		"26801": "Vodafone",
+		"26803": "OPTIMUS",
+		"26806": "TMN"
+	},
+	"AE": {
+		"42402": "ETISALAT"
+	},
+	"AM": {
+		"28301": "ARMGSM"
+	},
+	"CM": {
+		"62402": "MOBILIS",
+		"62401": "MTN-CAM"
+	},
+	"HU": {
+		"21601": "PannonGSM",
+		"21630": "Westel",
+		"21670": "Vodafone"
+	},
+	"MU": {
+		"61710": "EMTEL",
+		"61701": "CELLPLUS"
+	},
+	"FM": {
+		"55001": "FSM"
+	},
+	"AU": {
+		"50503": "Vodafone",
+		"50501": "MobileNet",
+		"50508": "One.Tel",
+		"50502": "OPTUS"
+	},
+	"MD": {
+		"25901": "VOXTEL",
+		"25902": "MOLDCELL"
+	},
+	"MM": {
+		"41401": "MM900"
+	},
+	"OM": {
+		"42202": "OMANMOBILE"
+	},
+	"VU": {
+		"54101": "SMILE",
+		"54100": "ACeS"
+	},
+	"YU": {
+		"22004": "MONET",
+		"22002": "ProMonte",
+		"22003": "TelekomSrbija",
+		"22001": "MOBTEL"
+	},
+	"TM": {
+		"43801": "BCTI"
+	},
+	"RU": {
+		"25044": "NC-GSM",
+		"25010": "DTC",
+		"25093": "JSCTelecomXXI",
+		"25001": "MTS",
+		"25005": "SCS",
+		"25003": "NCC",
+		"25016": "NTC",
+		"25002": "NorthWestGSM",
+		"25028": "EXTEL",
+		"25039": "Uraltel",
+		"25092": "Primtel",
+		"25017": "ErmakRMS",
+		"25099": "BeeLine",
+		"25091": "SonicDuo",
+		"25012": "FarEast",
+		"25007": "SMARTS",
+		"25011": "Orensot",
+		"25013": "KubanGSM"
+	},
+	"BN": {
+		"52811": "BRUTSTCom"
+	},
+	"CN": {
+		"46001": "CHN-CUGSM",
+		"46000": "CHINAMOBILE",
+		"46002": "CHINAMOBILE"
+	},
+	"AN": {
+		"36251": "TelcellGSM"
+	},
+	"LV": {
+		"24702": "BALTCOM",
+		"24701": "LMTGSM"
+	},
+	"MV": {
+		"47201": "DHIMOBILE"
+	},
+	"YE": {
+		"42102": "Spacetel"
+	},
+	"KE": {
+		"63902": "Safaricom",
+		"63903": "KENCELL"
+	},
+	"IN": {
+		"40449": "Airtel",
+		"40414": "Spice",
+		"40484": "Hutch",
+		"40472": "Cellone",
+		"40430": "Hutch",
+		"40480": "Cellone",
+		"40460": "Hutch",
+		"40444": "Spice",
+		"40476": "Cellone",
+		"40478": "IDEA",
+		"40411": "Hutch",
+		"40489": "IDEA",
+		"40445": "Airtel",
+		"40453": "Cellone",
+		"40412": "IDEA",
+		"40477": "Cellone",
+		"40552": "Airtel",
+		"40459": "Cellone",
+		"40492": "Airtel",
+		"40454": "Cellone",
+		"40418": "Reliance",
+		"40490": "Airtel",
+		"40475": "Cellone",
+		"40410": "Airtel",
+		"40498": "Airtel",
+		"40419": "IDEA",
+		"40441": "RPG",
+		"40556": "Airtel",
+		"40452": "Reliance",
+		"40407": "IDEA",
+		"40455": "Cellone",
+		"40437": "Aircel",
+		"40413": "Hutch",
+		"40471": "Cellone",
+		"40462": "Cellone",
+		"40467": "Reliance",
+		"40421": "BPLMobile",
+		"40466": "Cellone",
+		"40486": "Hutch",
+		"40555": "Airtel",
+		"40424": "IDEA",
+		"40469": "MTNL",
+		"40566": "Hutch",
+		"40554": "Airtel",
+		"40553": "Airtel",
+		"40401": "Hutch",
+		"40551": "Airtel",
+		"40497": "Airtel",
+		"40496": "Airtel",
+		"40495": "Airtel",
+		"40494": "Airtel",
+		"40493": "Airtel",
+		"40434": "Cellone",
+		"40488": "Hutch",
+		"40457": "Cellone",
+		"40427": "Hutch",
+		"40487": "IDEA",
+		"40443": "Hutch",
+		"40403": "Airtel",
+		"40436": "Reliance",
+		"40483": "Reliance",
+		"40409": "Reliance",
+		"40481": "Cellone",
+		"40482": "IDEA",
+		"40431": "Airtel",
+		"40415": "Hutch",
+		"40479": "Cellone",
+		"40440": "Airtel",
+		"40420": "Hutch",
+		"40402": "Airtel",
+		"40404": "IDEA",
+		"40422": "IDEA",
+		"40474": "Cellone",
+		"40473": "Cellone",
+		"40438": "Cellone",
+		"40405": "Hutch",
+		"40446": "Hutch",
+		"40416": "Airtel",
+		"40468": "DOLPHIN",
+		"40470": "Airtel",
+		"40451": "Cellone",
+		"40567": "Hutch",
+		"40456": "IDEA",
+		"40464": "Cellone",
+		"40450": "Reliance",
+		"40458": "Cellone",
+		"40429": "Aircel",
+		"40485": "Reliance"
+	},
+	"NE": {
+		"61402": "CELTEL"
+	},
+	"MN": {
+		"42899": "MobiCom"
+	},
+	"HK": {
+		"45401": "NEWWORLD",
+		"45402": "CSL",
+		"45412": "PEOPLES",
+		"45418": "HKTELECOM",
+		"45400": "CSL",
+		"45416": "SUNDAY",
+		"45404": "Orange",
+		"45406": "SMC",
+		"45410": "NEWWORLD"
+	},
+	"SR": {
+		"74601": "ICMS"
+	},
+	"TR": {
+		"28604": "AYCELL",
+		"28602": "TELSIM",
+		"28603": "ARIA",
+		"28601": "TURKCELL"
+	},
+	"DK": {
+		"23830": "Orange",
+		"23802": "SONOFON",
+		"23820": "Telia",
+		"23801": "TDK-MOBIL"
+	},
+	"UZ": {
+		"43405": "Coscom",
+		"43402": "Uzmacom",
+		"43401": "Buztel",
+		"43404": "UZBDAEWOO-GSM"
+	},
+	"SZ": {
+		"65310": "SwaziMTN"
+	},
+	"TZ": {
+		"64003": "ZANTEL",
+		"64004": "Vodacom",
+		"64001": "TRITEL",
+		"64005": "CELTEL",
+		"64002": "MobiTel"
+	},
+	"MZ": {
+		"63401": "MobiTel"
+	},
+	"NZ": {
+		"53001": "Vodafone"
+	},
+	"ES": {
+		"21401": "VodafoneE",
+		"21404": "Xfera",
+		"21407": "MoviStar",
+		"21402": "MoviStar",
+		"21403": "AMENA"
+	},
+	"AS": {
+		"54411": "BlueSky"
+	},
+	"LB": {
+		"41503": "LibanCell",
+		"41501": "Cellis"
+	},
+	"LS": {
+		"65101": "Vodacom"
+	},
+	"IS": {
+		"27401": "SIMINN",
+		"27402": "TAL",
+		"27404": "Viking"
+	},
+	"BD": {
+		"47019": "Mobile2000",
+		"47003": "ShebaWorld",
+		"47002": "AKTEL",
+		"47001": "GrameemPhone"
+	},
+	"US": {
+		"31035": "Carolina",
+		"31061": "EpicTouch",
+		"31018": "Cingular",
+		"31041": "Cingular",
+		"31079": "PinPoint",
+		"31016": "T-Mobile",
+		"31063": "AmeriLink",
+		"31074": "Telemetrix",
+		"31067": "Wireless2000",
+		"31046": "TMPCorp",
+		"31058": "T-Mobile",
+		"31038": "AT&TWireless",
+		"31069": "Conestoga",
+		"31015": "Cingular",
+		"31076": "PTSI",
+		"31080": "T-Mobile",
+		"31022": "T-Mobile",
+		"31066": "T-Mobile",
+		"31011": "Wireless2000",
+		"31021": "T-Mobile",
+		"31001": "Cellnet",
+		"31034": "WestLink",
+		"31027": "T-Mobile",
+		"31031": "T-Mobile",
+		"31098": "AWS",
+		"31023": "T-Mobile",
+		"31078": "AirlinkPCS",
+		"31020": "T-Mobile",
+		"31077": "IowaWireless",
+		"31068": "NPIWireless",
+		"31026": "T-Mobile",
+		"31064": "EinsteinPCS",
+		"31024": "T-Mobile",
+		"31017": "Cingular",
+		"31025": "T-Mobile"
+	},
+	"ID": {
+		"51008": "LIPPOTEL",
+		"51021": "INDOSAT",
+		"51011": "GSM-XL",
+		"51010": "TELKOMSEL",
+		"51000": "ACeS",
+		"51001": "SATELINDOCEL"
+	},
+	"AD": {
+		"21303": "Mobiland"
+	},
+	"AL": {
+		"27602": "Vodafone",
+		"27601": "AMC"
+	},
+	"IT": {
+		"22298": "BluSpA",
+		"22201": "TIM",
+		"22288": "WIND",
+		"22210": "VodafoneIT"
+	},
+	"NC": {
+		"54601": "MOBILIS"
+	},
+	"SK": {
+		"23102": "EUROTEL",
+		"23101": "GLOBTEL"
+	},
+	"LT": {
+		"24601": "OMNITEL",
+		"24602": "BiteGSM",
+		"24603": "TELE2"
+	},
+	"MT": {
+		"27801": "VodafoneMalta",
+		"27821": "gomobile"
+	},
+	"PK": {
+		"41001": "Mobilink"
+	},
+	"IL": {
+		"42501": "Orange",
+		"42505": "JAWWAL"
+	},
+	"AT": {
+		"23207": "tele.ring",
+		"23205": "ONE",
+		"23203": "T-Mobile",
+		"23201": "A1"
+	},
+	"LK": {
+		"41303": "CELLTEL",
+		"41302": "DIALOG"
+	},
+	"ML": {
+		"61001": "MALITEL"
+	},
+	"NL": {
+		"20412": "O2-NL",
+		"20408": "KPN",
+		"20404": "VodafoneNL",
+		"20420": "dutchtone",
+		"20416": "Ben"
+	},
+	"SC": {
+		"63310": "AIRTEL",
+		"63301": "SEYCEL"
+	},
+	"FI": {
+		"24405": "RADIOLINJA",
+		"24491": "SONERA",
+		"24414": "AMT",
+		"24403": "Telia",
+		"24409": "FINNET",
+		"24412": "2G"
+	},
+	"BA": {
+		"21890": "GSMBiH",
+		"21805": "MobilnaSrpska",
+		"21803": "ERONET"
+	},
+	"GI": {
+		"26601": "GIBTEL"
+	},
+	"BI": {
+		"64202": "SAFARIS",
+		"64201": "Spacetel"
+	},
+	"CI": {
+		"61203": "Ivoiris",
+		"61201": "CORA",
+		"61205": "TELECEL"
+	},
+	"GA": {
+		"62801": "LIBERTIS",
+		"62802": "GOCeltel",
+		"62803": "CELTEL"
+	},
+	"CA": {
+		"30272": "RogersAT&T",
+		"30237": "Microcell"
+	},
+	"TH": {
+		"52020": "ACeS",
+		"52018": "WP-1800",
+		"52099": "Orange",
+		"52023": "HELLO",
+		"52001": "AISGSM",
+		"52015": "ACTMobile"
+	},
+	"BY": {
+		"25701": "VELCOM"
+	},
+	"CY": {
+		"28001": "CYTAGSM"
+	},
+	"KH": {
+		"45602": "SAMART-GSM",
+		"45601": "MobiTel"
+	},
+	"FJ": {
+		"54201": "Vodafone"
+	},
+	"BJ": {
+		"61602": "TelecelBenin",
+		"61603": "BENINCELL",
+		"61601": "LIBERCOM"
+	},
+	"GB": {
+		"23455": "GUERNSEYTEL",
+		"23410": "O2-UK",
+		"23458": "MANX",
+		"23450": "JTGSM",
+		"23430": "T-MobileUK",
+		"23431": "T-MobileUK",
+		"23432": "T-MobileUK",
+		"23433": "Orange",
+		"23415": "Vodafone"
+	},
+	"SY": {
+		"41709": "MOBILESYRIA",
+		"41702": "Spacetel"
+	},
+	"MY": {
+		"50216": "DiGi",
+		"50213": "TMTouch",
+		"50219": "CELCOM",
+		"50217": "ADAM",
+		"50212": "MaxisMobile"
+	},
+	"PY": {
+		"74402": "PY02",
+		"74401": "VOX"
+	},
+	"KZ": {
+		"40102": "K'CELL",
+		"40101": "K-MOBILE"
+	},
+	"FR": {
+		"20810": "SFR",
+		"20820": "BOUYGTEL",
+		"20801": "Orange"
+	},
+	"QA": {
+		"42701": "QATARNET"
+	},
+	"LA": {
+		"45701": "LAOGSM"
+	},
+	"BR": {
+		"72403": "TIMBRASIL",
+		"72404": "TIMBRASIL",
+		"72416": "BrTCel",
+		"72402": "TIMBRASIL",
+		"72405": "Claro"
+	},
+	"NA": {
+		"64901": "MTC"
+	},
+	"SI": {
+		"29340": "SI.MOBIL",
+		"29341": "MOBITEL"
+	},
+	"CZ": {
+		"23001": "PAEGAS",
+		"23002": "EUROTEL",
+		"23003": "OSKAR"
+	},
+	"DZ": {
+		"60301": "AMN"
+	},
+	"AZ": {
+		"40001": "AZERCELLGSM",
+		"40002": "BAKCELLGSM2000"
+	},
+	"LR": {
+		"61801": "Omega"
+	},
+	"IR": {
+		"43214": "KISH",
+		"43211": "TCI"
+	},
+	"SA": {
+		"42007": "EAE",
+		"42001": "Al-Jawal"
+	},
+	"LI": {
+		"29577": "LITANGO",
+		"29501": "TELECOM",
+		"29502": "MONTEL",
+		"29505": "FL1"
+	},
+	"UA": {
+		"25502": "WellCOM",
+		"25505": "GoldenTelecom",
+		"25501": "UMC",
+		"25503": "Kyivstar"
+	},
+	"EG": {
+		"60201": "MobiNiL",
+		"60202": "CLICKGSM"
+	},
+	"SN": {
+		"60802": "SENTEL",
+		"60801": "ALIZE"
+	},
+	"CG": {
+		"62901": "CELTEL",
+		"62910": "LIBERTIS"
+	},
+	"BG": {
+		"28401": "M-TELGSM"
+	},
+	"VN": {
+		"45202": "VINAFONE",
+		"45201": "MOBIFONE"
+	},
+	"TN": {
+		"60502": "TUNICELL"
+	},
+	"AG": {
+		"34430": "APUAPCS"
+	},
+	"CL": {
+		"73010": "ENTELPCS",
+		"73001": "ENTELPCS"
+	},
+	"SV": {
+		"70601": "PERSONAL",
+		"70602": "DIGICEL"
+	},
+	"VE": {
+		"73402": "DIGITEL",
+		"73401": "INFONET"
+	},
+	"BO": {
+		"73602": "ENTEL",
+		"73601": "NUEVATEL"
+	},
+	"AR": {
+		"72207": "UNIFON",
+		"72235": "PORT-HABLE",
+		"72234": "TelecomPersonal"
+	},
+	"FW": {
+		"34001": "Orange",
+		"34020": "Bouygues"
+	},
+	"MW": {
+		"65010": "CelTel",
+		"65001": "CALLPOINT90"
+	},
+	"FO": {
+		"28801": "FTGSM"
+	},
+	"KW": {
+		"41902": "MTCNet",
+		"41903": "WATANIYA"
+	},
+	"DO": {
+		"37001": "Orange"
+	},
+	"PE": {
+		"71610": "TIM"
+	},
+	"JO": {
+		"41601": "Fastlink",
+		"41677": "MobileCom"
+	},
+	"ZA": {
+		"65507": "CellC(Pty)Ltd",
+		"65501": "Vodacom",
+		"65510": "MTN"
+	},
+	"RE": {
+		"64700": "OrangeReunion",
+		"64710": "SFRReunion"
+	},
+	"PF": {
+		"54720": "VINI"
+	},
+	"NO": {
+		"24202": "NetCom",
+		"24201": "TELENOR"
+	},
+	"ZW": {
+		"64803": "TELECEL",
+		"64801": "NET*ONE",
+		"64804": "ECONET"
+	},
+	"BW": {
+		"65202": "VISTA",
+		"65201": "MASCOM"
+	},
+	"SO": {
+		"63701": "BARAKAAT"
+	},
+	"RO": {
+		"22603": "Cosmorom",
+		"22610": "dialog",
+		"22601": "CONNEX"
+	},
+	"GH": {
+		"62002": "ONEtouch",
+		"62003": "MOBITEL",
+		"62001": "SPACEFON"
+	},
+	"MA": {
+		"60400": "Meditel",
+		"60401": "IAM"
+	},
+	"CV": {
+		"62501": "CPVMOVEL"
+	},
+	"BH": {
+		"42601": "MOBILEPLUS"
+	},
+	"CH": {
+		"22801": "SwissGSM",
+		"22802": "sunrise",
+		"22803": "Orange"
+	},
+	"TO": {
+		"53901": "TongaComm."
+	},
+	"GE": {
+		"28203": "GEO03",
+		"28201": "GEOCELL",
+		"28202": "MagtiGSM"
+	},
+	"ET": {
+		"63601": "ETMTN"
+	},
+	"BM": {
+		"35001": "Telecom"
+	},
+	"PH": {
+		"51503": "SMART",
+		"51505": "Digitel",
+		"51501": "ISLACOM",
+		"51502": "Globe",
+		"51511": "ACeS"
+	},
+	"CD": {
+		"63001": "CELLNET",
+		"63002": "CELTEL",
+		"63004": "CELLCO",
+		"63089": "OASIS"
+	},
+	"TW": {
+		"46601": "FarEasTone",
+		"46693": "MobiTai",
+		"46606": "TUNTEX",
+		"46692": "Chunghwa",
+		"46668": "ACeS",
+		"46699": "TransAsia",
+		"46697": "TWNGSM",
+		"46688": "KGT"
+	},
+	"TD": {
+		"62202": "LIBERTIS",
+		"62201": "CELTEL"
+	},
+	"RW": {
+		"63510": "Rwandacell"
+	},
+	"UG": {
+		"64101": "CelTel",
+		"64111": "UTLTELECEL",
+		"64110": "MTN-UGANDA"
+	},
+	"TG": {
+		"61501": "TOGOCEL"
+	},
+	"SG": {
+		"52502": "ST-GSM1800-SGP",
+		"52504": "SGP-M1-3GSM",
+		"52503": "M1-GSM-SGP",
+		"52505": "STARHUB-SGP",
+		"52501": "ST-GSM-SGP"
+	},
+	"LU": {
+		"27077": "TANGO",
+		"27001": "LUXGSM"
+	},
+	"CU": {
+		"36801": "C_Com"
+	},
+	"BF": {
+		"61302": "CELTEL"
+	},
+	"GN": {
+		"61102": "LAGUI",
+		"61101": "MOBILIS"
+	},
+	"MK": {
+		"29401": "MOBIMAK"
+	},
+	"MG": {
+		"64601": "Madacom",
+		"64602": "ANTARIS"
+	},
+	"SE": {
+		"24007": "IQ",
+		"24001": "TeliaS",
+		"24008": "Vodafone"
+	},
+	"KG": {
+		"43701": "BITEL"
+	},
+	"NP": {
+		"42901": "NTC"
+	},
+	"GR": {
+		"20201": "Cosmote",
+		"20205": "VodafoneGR",
+		"29001": "TELEGreenland",
+		"20210": "TELESTET"
+	},
+	"HR": {
+		"21910": "VIP",
+		"21901": "CRONET"
+	},
+	"JM": {
+		"33805": "Digicel"
+	},
+	"NG": {
+		"62140": "NITELGSM",
+		"62120": "ECONET",
+		"62130": "MTN",
+		"62100": "MTN"
+	}
+}

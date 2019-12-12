@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2866" />
+<item key="google_adid" value="405cf755-2065-411d-8b51-435cde09c8f5" />
+<item key="build_id" value="104.1.2940" />
+<item key="build_display" value="JOP40C" />
+<item key="build_incremental" value="1F2B" />
+<item key="build_sdk_int" value="22" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="KYV34" />
+<item key="build_brand" value="Kyocera" />
+<item key="build_product" value="Kyocera Urbano V02
+" />
+<item key="build_device" value="60FEC" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="KDDI" />
+<item key="build_fingerprint" value="Kyocera/Kyocera Urbano V02
+/60FEC:5.1/104.1.2940/1F2B:user/user" />
+<item key="build_serial" value="KYV34" />
+<item key="build_hardware" value="KYV34" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="3224a76736e2538b" />
+<item key="tele_getdeviceid" value="095048245233643" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="0" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89015091850935498703" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="931507806449445" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.1; KYV34 Build/104.1.2940; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="a1:11:8c:2c:fb:b0" />
+<item key="wifiinfo_getmacaddress" value="00:e0:fc:14:ca:bd" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="2556acc0296" />
+<item key="status" value="t" />
+</phones>

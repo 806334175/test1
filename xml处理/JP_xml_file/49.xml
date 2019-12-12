@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4093" />
+<item key="google_adid" value="b852da12-c38a-4f38-ab7c-5275d67509af" />
+<item key="build_id" value="LRX22G" />
+<item key="build_display" value="IMM76K" />
+<item key="build_incremental" value="B824272375" />
+<item key="build_sdk_int" value="21" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.0.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="PC-TE508BAW" />
+<item key="build_brand" value="Tab" />
+<item key="build_product" value="Tab E 508/BAW
+" />
+<item key="build_device" value="E5F2D" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LaVie" />
+<item key="build_fingerprint" value="Tab/Tab E 508/BAW
+/E5F2D:5.0.2/LRX22G/B824272375:user/user" />
+<item key="build_serial" value="PC-TE508BAW" />
+<item key="build_hardware" value="PC-TE508BAW" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="d22593abc8a0e092" />
+<item key="tele_getdeviceid" value="559584288163490" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89018922516018635081" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="560495451898603" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.0.2; PC-TE508BAW Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Safari/537.36" />
+<item key="wifiinfo_getbssid" value="f3:46:27:65:c6:80" />
+<item key="wifiinfo_getmacaddress" value="00:20:75:e2:d3:4c" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="cda06f6de" />
+<item key="status" value="t" />
+</phones>

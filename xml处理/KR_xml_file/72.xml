@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4758" />
+<item key="google_adid" value="62b5f164-fded-40e6-8066-ceda5897aff8" />
+<item key="build_id" value="LMY47V" />
+<item key="build_display" value="IMM76H" />
+<item key="build_incremental" value="8232A7955001" />
+<item key="build_sdk_int" value="22" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.1.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="C6743" />
+<item key="build_brand" value="Hydro" />
+<item key="build_product" value="Hydro Reach
+" />
+<item key="build_device" value="EA5F1" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Kyocera" />
+<item key="build_fingerprint" value="Hydro/Hydro Reach
+/EA5F1:5.1.1/LMY47V/8232A7955001:user/user" />
+<item key="build_serial" value="C6743" />
+<item key="build_hardware" value="C6743" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="c75d99e938e2eb1f" />
+<item key="tele_getdeviceid" value="396497932808911" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45006" />
+<item key="tele_getnetworkoperatorname" value="LG Telecom" />
+<item key="tele_getnetworktype" value="10" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45006" />
+<item key="tele_getsimoperatorname" value="LG Telecom" />
+<item key="tele_getsimserialnumber" value="89056388879455172192" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="902206538698221" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.1.1; C6743 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="37:5b:97:e5:cf:7a" />
+<item key="wifiinfo_getmacaddress" value="4c:f9:5d:51:39:a3" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="779306ae27" />
+<item key="status" value="t" />
+</phones>

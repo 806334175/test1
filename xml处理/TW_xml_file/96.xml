@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5976" />
+<item key="google_adid" value="315d27aa-fda6-47ca-a4d7-ccabbbb3df3e" />
+<item key="build_id" value="LRX21T" />
+<item key="build_display" value="IMM76D" />
+<item key="build_incremental" value="6A2F1" />
+<item key="build_sdk_int" value="21" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G900AZ" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S5
+" />
+<item key="build_device" value="1F2DB" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S5
+/1F2DB:5.0/LRX21T/6A2F1:user/user" />
+<item key="build_serial" value="SM-G900AZ" />
+<item key="build_hardware" value="SM-G900AZ" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="7bdaa01b0914cdc8" />
+<item key="tele_getdeviceid" value="510718355276225" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="3" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89015693011416396421" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="767211036565966" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.0; SAMSUNG-SM-G900AZ Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="93:e6:a9:c7:45:4e" />
+<item key="wifiinfo_getmacaddress" value="00:22:f3:1a:59:7b" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="21518077d" />
+<item key="status" value="t" />
+</phones>

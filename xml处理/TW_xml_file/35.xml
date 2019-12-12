@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3451" />
+<item key="google_adid" value="196bdc52-e45e-4642-ba5f-6cb09f9007eb" />
+<item key="build_id" value="MXB48T" />
+<item key="build_display" value="GRK39F" />
+<item key="build_incremental" value="4A6709B4872E72" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="LGLS676" />
+<item key="build_brand" value="Tribute" />
+<item key="build_product" value="Tribute HD
+" />
+<item key="build_device" value="37B69" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="Tribute/Tribute HD
+/37B69:6.0.1/MXB48T/4A6709B4872E72:user/user" />
+<item key="build_serial" value="LGLS676" />
+<item key="build_hardware" value="LGLS676" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="6a3da08ce44af831" />
+<item key="tele_getdeviceid" value="634458710230230" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="8" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89084869191739197873" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="034955631665684" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; LGLS676 Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="84:97:65:5c:70:9e" />
+<item key="wifiinfo_getmacaddress" value="e8:f2:e2:ca:c6:56" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="ad3667fc7f" />
+<item key="status" value="t" />
+</phones>

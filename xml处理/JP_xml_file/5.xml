@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2323" />
+<item key="google_adid" value="1f46779e-f5d9-4b8b-961b-ef91015a6955" />
+<item key="build_id" value="S0022" />
+<item key="build_display" value="IML74K" />
+<item key="build_incremental" value="3B48" />
+<item key="build_sdk_int" value="21" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.0.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="403SH" />
+<item key="build_brand" value="Aquos" />
+<item key="build_product" value="Aquos Crystal 2
+" />
+<item key="build_device" value="61625" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Sharp" />
+<item key="build_fingerprint" value="Aquos/Aquos Crystal 2
+/61625:5.0.2/S0022/3B48:user/user" />
+<item key="build_serial" value="403SH" />
+<item key="build_hardware" value="403SH" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="ea97dc0562d9e1d8" />
+<item key="tele_getdeviceid" value="156885118689692" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44020" />
+<item key="tele_getnetworkoperatorname" value="SoftBank Corp." />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44020" />
+<item key="tele_getsimoperatorname" value="SoftBank Corp." />
+<item key="tele_getsimserialnumber" value="89046940128136511163" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="094753415479195" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.0.2; 403SH Build/S0022; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/42.0.2311.138 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="69:9f:e6:35:eb:40" />
+<item key="wifiinfo_getmacaddress" value="d0:f8:8c:9b:50:e0" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="12554fc" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2363" />
+<item key="google_adid" value="4b970b4e-8f80-4b44-96e2-c9116d51f180" />
+<item key="build_id" value="LMY47V" />
+<item key="build_display" value="GRK39F" />
+<item key="build_incremental" value="E7B6F5651B4120" />
+<item key="build_sdk_int" value="22" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.1.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Z959" />
+<item key="build_brand" value="Grand" />
+<item key="build_product" value="Grand X 3
+" />
+<item key="build_device" value="97BDE" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="ZTE" />
+<item key="build_fingerprint" value="Grand/Grand X 3
+/97BDE:5.1.1/LMY47V/E7B6F5651B4120:user/user" />
+<item key="build_serial" value="Z959" />
+<item key="build_hardware" value="Z959" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="df444b39137b0450" />
+<item key="tele_getdeviceid" value="319810261528991" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89048714119232978237" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="045954236533658" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.1.1; Z959 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="e0:8b:7e:e2:07:4f" />
+<item key="wifiinfo_getmacaddress" value="dc:0b:34:e1:5e:63" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="f38dafa0" />
+<item key="status" value="t" />
+</phones>

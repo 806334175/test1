@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5443" />
+<item key="google_adid" value="9a3a401e-491c-4be5-b8f9-fc035b06906f" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IMM76K" />
+<item key="build_incremental" value="5A0B34" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SC-04F" />
+<item key="build_brand" value="Samsung" />
+<item key="build_product" value="S5 LTE-A
+" />
+<item key="build_device" value="41783" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Samsung/S5 LTE-A
+/41783:6.0.1/MMB29M/5A0B34:user/user" />
+<item key="build_serial" value="SC-04F" />
+<item key="build_hardware" value="SC-04F" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="d02a5af678c6f3ef" />
+<item key="tele_getdeviceid" value="281009356174052" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44020" />
+<item key="tele_getnetworkoperatorname" value="SoftBank Corp." />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44020" />
+<item key="tele_getsimoperatorname" value="SoftBank Corp." />
+<item key="tele_getsimserialnumber" value="89089985263720867307" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="983583768370008" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; SC-04F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="dc:6c:2a:1a:75:a9" />
+<item key="wifiinfo_getmacaddress" value="98:aa:fc:2b:f9:ca" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="14a3747e39ba" />
+<item key="status" value="t" />
+</phones>

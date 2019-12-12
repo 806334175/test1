@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4503" />
+<item key="google_adid" value="e49584b1-7d40-48d0-b6ff-91e2e9378d6a" />
+<item key="build_id" value="NRD90U" />
+<item key="build_display" value="ITL41F" />
+<item key="build_incremental" value="A7FA0E27B57" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="MS210" />
+<item key="build_brand" value="LG" />
+<item key="build_product" value="Aristo
+" />
+<item key="build_device" value="658E3" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="LG/Aristo
+/658E3:7.0/NRD90U/A7FA0E27B57:user/user" />
+<item key="build_serial" value="MS210" />
+<item key="build_hardware" value="MS210" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="ae57d20b96734295" />
+<item key="tele_getdeviceid" value="652076553572498" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45008" />
+<item key="tele_getnetworkoperatorname" value="Korea Telecom" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45008" />
+<item key="tele_getsimoperatorname" value="Korea Telecom" />
+<item key="tele_getsimserialnumber" value="89075071484857598092" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="739466906712440" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; LG-M210 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="2c:6c:6c:f8:5b:82" />
+<item key="wifiinfo_getmacaddress" value="dc:0b:34:82:df:ec" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="b6c77c" />
+<item key="status" value="t" />
+</phones>

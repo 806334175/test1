@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5391" />
+<item key="google_adid" value="28b79115-c1d9-41a1-95a0-0bacd83191c7" />
+<item key="build_id" value="S2130" />
+<item key="build_display" value="GRH78" />
+<item key="build_incremental" value="27D2B3" />
+<item key="build_sdk_int" value="17" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="4.2.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SH-02F" />
+<item key="build_brand" value="Aquos" />
+<item key="build_product" value="Aquos SH-02F" />
+<item key="build_device" value="F9ADB" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Sharp" />
+<item key="build_fingerprint" value="Aquos/Aquos SH-02F/F9ADB:4.2.2/S2130/27D2B3:user/user" />
+<item key="build_serial" value="SH-02F" />
+<item key="build_hardware" value="SH-02F" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="e10ee71b84309cb5" />
+<item key="tele_getdeviceid" value="116607122243958" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44010" />
+<item key="tele_getnetworkoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44010" />
+<item key="tele_getsimoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getsimserialnumber" value="89046116194736954563" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="722472627291761" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SH-02F Build/S2130) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" />
+<item key="wifiinfo_getbssid" value="a2:3e:de:2e:de:67" />
+<item key="wifiinfo_getmacaddress" value="48:ad:08:e5:98:82" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="accef0e6b4a" />
+<item key="status" value="t" />
+</phones>

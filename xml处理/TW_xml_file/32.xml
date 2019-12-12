@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3359" />
+<item key="google_adid" value="184314ce-59d4-404c-a698-b241655a49af" />
+<item key="build_id" value="KTU84P" />
+<item key="build_display" value="IMM76D" />
+<item key="build_incremental" value="1ECCC7EE46A" />
+<item key="build_sdk_int" value="19" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="4.4.4" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-S820L" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy Core Prime
+" />
+<item key="build_device" value="0DFF7" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy Core Prime
+/0DFF7:4.4.4/KTU84P/1ECCC7EE46A:user/user" />
+<item key="build_serial" value="SM-S820L" />
+<item key="build_hardware" value="SM-S820L" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="8113ce5a7ea9110e" />
+<item key="tele_getdeviceid" value="316942762463012" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="13" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89062154776525158690" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="833607080962793" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 4.4.4; SM-S820L Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="83:b4:9e:43:89:1f" />
+<item key="wifiinfo_getmacaddress" value="ac:0d:1b:f1:e9:75" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="7ee3e43923" />
+<item key="status" value="t" />
+</phones>

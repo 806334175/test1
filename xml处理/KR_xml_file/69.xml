@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4714" />
+<item key="google_adid" value="4be6fd76-b7fa-4727-a625-bdc5f8c2905c" />
+<item key="build_id" value="NRD90U" />
+<item key="build_display" value="IMM76H" />
+<item key="build_incremental" value="4295530EFA06" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="LS777" />
+<item key="build_brand" value="Stylo" />
+<item key="build_product" value="Stylo 3
+" />
+<item key="build_device" value="51E68" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="Stylo/Stylo 3
+/51E68:7.0/NRD90U/4295530EFA06:user/user" />
+<item key="build_serial" value="LS777" />
+<item key="build_hardware" value="LS777" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="d11f3bb7e9c8e45c" />
+<item key="tele_getdeviceid" value="413853664262578" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45006" />
+<item key="tele_getnetworkoperatorname" value="LG Telecom" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45006" />
+<item key="tele_getsimoperatorname" value="LG Telecom" />
+<item key="tele_getsimserialnumber" value="89056123389128416468" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="139670573742893" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; LG-LS777 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="5a:c2:b4:25:ff:6e" />
+<item key="wifiinfo_getmacaddress" value="e0:98:61:49:21:93" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="90a0f9ab122" />
+<item key="status" value="t" />
+</phones>

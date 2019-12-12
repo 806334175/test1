@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="7563" />
+<item key="google_adid" value="a39e9101-1424-4634-87a7-ec106abef67d" />
+<item key="build_id" value="LMY48B" />
+<item key="build_display" value="GRK39F" />
+<item key="build_incremental" value="9DB9" />
+<item key="build_sdk_int" value="22" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.1.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G360V" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy Core Prime
+" />
+<item key="build_device" value="147E5" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy Core Prime
+/147E5:5.1.1/LMY48B/9DB9:user/user" />
+<item key="build_serial" value="SM-G360V" />
+<item key="build_hardware" value="SM-G360V" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="d04abe7f12ab4fa2" />
+<item key="tele_getdeviceid" value="766477312878840" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89074722676948238948" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="522337072369733" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.1.1; SM-G360V Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="f0:a4:5d:8f:8d:fe" />
+<item key="wifiinfo_getmacaddress" value="00:e0:fc:55:af:0b" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="6e96e3" />
+<item key="status" value="t" />
+</phones>

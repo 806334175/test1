@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2535" />
+<item key="google_adid" value="1918d2b4-4927-414a-9ae3-94be9a967f15" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="GRI40" />
+<item key="build_incremental" value="5FDF9D8" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Z981" />
+<item key="build_brand" value="ZMax" />
+<item key="build_product" value="ZMax Pro
+" />
+<item key="build_device" value="1F13B" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="ZTE" />
+<item key="build_fingerprint" value="ZMax/ZMax Pro
+/1F13B:6.0.1/MMB29M/5FDF9D8:user/user" />
+<item key="build_serial" value="Z981" />
+<item key="build_hardware" value="Z981" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="62d9df9989abf7f5" />
+<item key="tele_getdeviceid" value="198105794137254" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="10" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89061520720860882095" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="346264268562308" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; Z981 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="69:e2:a7:12:70:2c" />
+<item key="wifiinfo_getmacaddress" value="e0:98:61:92:09:75" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="fa4464941" />
+<item key="status" value="t" />
+</phones>

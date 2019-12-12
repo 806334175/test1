@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="6517" />
+<item key="google_adid" value="dd304775-cfee-402e-b723-7ea6fbb7bc3f" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IMM76D" />
+<item key="build_incremental" value="6199AE" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G870A" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S5 Active
+" />
+<item key="build_device" value="71648" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S5 Active
+/71648:6.0.1/MMB29M/6199AE:user/user" />
+<item key="build_serial" value="SM-G870A" />
+<item key="build_hardware" value="SM-G870A" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="9265a75ebe42175b" />
+<item key="tele_getdeviceid" value="659618284267343" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89066814339288169552" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="534142965061936" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-G870A Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="44:98:c8:67:0c:ab" />
+<item key="wifiinfo_getmacaddress" value="00:0f:aa:d1:31:9a" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="dcdfb2fb" />
+<item key="status" value="t" />
+</phones>

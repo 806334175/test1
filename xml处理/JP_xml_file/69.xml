@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5101" />
+<item key="google_adid" value="bf022a68-a2a1-494e-8d1d-0877d5e31fd4" />
+<item key="build_id" value="JRO03C" />
+<item key="build_display" value="IMM76D" />
+<item key="build_incremental" value="7BDF1F08C0" />
+<item key="build_sdk_int" value="16" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="4.1.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SC-02E" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy Note II
+" />
+<item key="build_device" value="16090" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy Note II
+/16090:4.1.1/JRO03C/7BDF1F08C0:user/user" />
+<item key="build_serial" value="SC-02E" />
+<item key="build_hardware" value="SC-02E" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="74da54094c37af56" />
+<item key="tele_getdeviceid" value="142415442448811" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="0" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89024559612798839385" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="349733161780546" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; U; Android 4.1.1; ja-jp; SC-02E Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" />
+<item key="wifiinfo_getbssid" value="23:dd:8b:f9:ee:d8" />
+<item key="wifiinfo_getmacaddress" value="00:20:75:54:b6:4b" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="9c8d2b8cf60f" />
+<item key="status" value="t" />
+</phones>

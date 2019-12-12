@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5107" />
+<item key="google_adid" value="c5f67cb4-a486-4385-8fb1-bf207d8590df" />
+<item key="build_id" value="S5270" />
+<item key="build_display" value="IMM76I" />
+<item key="build_incremental" value="BB33548928E006" />
+<item key="build_sdk_int" value="17" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="4.2.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Zeta" />
+<item key="build_brand" value="Aquos" />
+<item key="build_product" value="Aquos Phone Zeta" />
+<item key="build_device" value="D7F12" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Sharp" />
+<item key="build_fingerprint" value="Aquos/Aquos Phone Zeta/D7F12:4.2.2/S5270/BB33548928E006:user/user" />
+<item key="build_serial" value="Zeta" />
+<item key="build_hardware" value="Zeta" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="ce2c55d76cbd2a06" />
+<item key="tele_getdeviceid" value="095834538853714" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89000425646888932704" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="323898308436032" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SH-01F Build/S5270) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" />
+<item key="wifiinfo_getbssid" value="cf:18:88:b6:c9:85" />
+<item key="wifiinfo_getmacaddress" value="48:fd:8e:45:a5:1e" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="ae449f08" />
+<item key="status" value="t" />
+</phones>

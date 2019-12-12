@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4708" />
+<item key="google_adid" value="06a054ee-9be1-4093-bacd-cbb6c5a344cb" />
+<item key="build_id" value="V13R29B" />
+<item key="build_display" value="IMM76H" />
+<item key="build_incremental" value="FF4F976" />
+<item key="build_sdk_int" value="19" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="4.4.4" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="F-03G" />
+<item key="build_brand" value="ARROWS" />
+<item key="build_product" value="ARROWS Tab F-03G
+" />
+<item key="build_device" value="7A1CE" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Fujitsu" />
+<item key="build_fingerprint" value="ARROWS/ARROWS Tab F-03G
+/7A1CE:4.4.4/V13R29B/FF4F976:user/user" />
+<item key="build_serial" value="F-03G" />
+<item key="build_hardware" value="F-03G" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="bd9e52adfbe00eed" />
+<item key="tele_getdeviceid" value="937697468198905" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="3" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89086945946094669404" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="339504264862502" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 4.4.4; F-03G Build/V13R29B) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Safari/537.36" />
+<item key="wifiinfo_getbssid" value="ab:27:e3:f6:18:13" />
+<item key="wifiinfo_getmacaddress" value="68:79:ed:4a:c7:90" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="c01ab9ee" />
+<item key="status" value="t" />
+</phones>

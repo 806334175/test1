@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4406" />
+<item key="google_adid" value="4a9b58cd-498b-4eb1-8394-ec1d187b4476" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IML74K" />
+<item key="build_incremental" value="EB25DFF59F" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Z988" />
+<item key="build_brand" value="Grand" />
+<item key="build_product" value="Grand X Max 2
+" />
+<item key="build_device" value="7E7BA" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="ZTE" />
+<item key="build_fingerprint" value="Grand/Grand X Max 2
+/7E7BA:6.0.1/MMB29M/EB25DFF59F:user/user" />
+<item key="build_serial" value="Z988" />
+<item key="build_hardware" value="Z988" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="3f602f8bc346265c" />
+<item key="tele_getdeviceid" value="870636664232445" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45006" />
+<item key="tele_getnetworkoperatorname" value="LG Telecom" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45006" />
+<item key="tele_getsimoperatorname" value="LG Telecom" />
+<item key="tele_getsimserialnumber" value="89088121747099929137" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="939356112516001" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; Z988 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="a8:65:8f:cc:e0:8e" />
+<item key="wifiinfo_getmacaddress" value="f4:f5:24:4e:31:20" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="0774d9d3d6" />
+<item key="status" value="t" />
+</phones>

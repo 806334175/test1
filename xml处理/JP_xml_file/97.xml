@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="6096" />
+<item key="google_adid" value="ef73e190-eded-412d-8bae-13aadc370794" />
+<item key="build_id" value="SA160" />
+<item key="build_display" value="GRJ22" />
+<item key="build_incremental" value="2710AD5EC" />
+<item key="build_sdk_int" value="17" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="4.2.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SH-07E" />
+<item key="build_brand" value="Aquos" />
+<item key="build_product" value="Aquos SH-07E" />
+<item key="build_device" value="6BDD6" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Sharp" />
+<item key="build_fingerprint" value="Aquos/Aquos SH-07E/6BDD6:4.2.2/SA160/2710AD5EC:user/user" />
+<item key="build_serial" value="SH-07E" />
+<item key="build_hardware" value="SH-07E" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="f57ea4710f092322" />
+<item key="tele_getdeviceid" value="491772729918874" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44020" />
+<item key="tele_getnetworkoperatorname" value="SoftBank Corp." />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44020" />
+<item key="tele_getsimoperatorname" value="SoftBank Corp." />
+<item key="tele_getsimserialnumber" value="89065900085748701884" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="182389640538170" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; U; Android 4.2.2; ja-jp; SH-07E Build/SA160) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" />
+<item key="wifiinfo_getbssid" value="5c:31:b2:81:7a:b4" />
+<item key="wifiinfo_getmacaddress" value="2c:ab:00:fc:15:ea" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="9f086d88cb" />
+<item key="status" value="t" />
+</phones>

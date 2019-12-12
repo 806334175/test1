@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2987" />
+<item key="google_adid" value="df1a924a-ec04-4ef2-a64c-4824f13b09d1" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="GRI40" />
+<item key="build_incremental" value="CB487629A7" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="LGLS992" />
+<item key="build_brand" value="LG" />
+<item key="build_product" value="G5
+" />
+<item key="build_device" value="39A8C" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="LG/G5
+/39A8C:6.0.1/MMB29M/CB487629A7:user/user" />
+<item key="build_serial" value="LGLS992" />
+<item key="build_hardware" value="LGLS992" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="d93359ddb173fc47" />
+<item key="tele_getdeviceid" value="963208375756746" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="13" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89031917649390821662" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="410610412608796" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; LGLS992 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="6c:c0:08:9a:61:33" />
+<item key="wifiinfo_getmacaddress" value="60:be:b5:02:5c:24" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="418ffedf7b" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3295" />
+<item key="google_adid" value="84697285-bc2a-445b-b46b-89287c537680" />
+<item key="build_id" value="NMF26V" />
+<item key="build_display" value="IMM76G" />
+<item key="build_incremental" value="E386A2668CCD34" />
+<item key="build_sdk_int" value="25" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.1.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Z982" />
+<item key="build_brand" value="Blade" />
+<item key="build_product" value="Blade Z Max
+" />
+<item key="build_device" value="21701" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="ZTE" />
+<item key="build_fingerprint" value="Blade/Blade Z Max
+/21701:7.1.1/NMF26V/E386A2668CCD34:user/user" />
+<item key="build_serial" value="Z982" />
+<item key="build_hardware" value="Z982" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="54565e82574ff81e" />
+<item key="tele_getdeviceid" value="943507822616474" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45005" />
+<item key="tele_getnetworkoperatorname" value="SK Telecom" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45005" />
+<item key="tele_getsimoperatorname" value="SK Telecom" />
+<item key="tele_getsimserialnumber" value="89000186688992719524" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="328398162401495" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.1.1; Z982 Build/NMF26V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="00:05:1a:3b:d9:02" />
+<item key="wifiinfo_getmacaddress" value="00:26:e2:aa:e1:a6" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="c483aad735" />
+<item key="status" value="t" />
+</phones>

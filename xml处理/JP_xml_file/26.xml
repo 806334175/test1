@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2931" />
+<item key="google_adid" value="de521e21-49a3-4ad9-a063-372da740804d" />
+<item key="build_id" value="211.0.1910" />
+<item key="build_display" value="GRJ22" />
+<item key="build_incremental" value="2DAB3E5611F" />
+<item key="build_sdk_int" value="17" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="4.2.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="KYY21" />
+<item key="build_brand" value="Urbano" />
+<item key="build_product" value="Urbano L01
+" />
+<item key="build_device" value="7E7A8" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Kyocera" />
+<item key="build_fingerprint" value="Urbano/Urbano L01
+/7E7A8:4.2.2/211.0.1910/2DAB3E5611F:user/user" />
+<item key="build_serial" value="KYY21" />
+<item key="build_hardware" value="KYY21" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="87111a8db9512257" />
+<item key="tele_getdeviceid" value="710592366940535" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44010" />
+<item key="tele_getnetworkoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44010" />
+<item key="tele_getsimoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getsimserialnumber" value="89092969790584444490" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="304615447697522" />
+<item key="web_useragent" value="Dalvik/1.6.0 (Linux; U; Android 4.2.2; KYY21 Build/211.0.1910)" />
+<item key="wifiinfo_getbssid" value="4b:f8:4d:a3:6a:82" />
+<item key="wifiinfo_getmacaddress" value="04:27:58:1b:ae:f8" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="430dfa" />
+<item key="status" value="t" />
+</phones>

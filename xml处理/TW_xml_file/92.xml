@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5779" />
+<item key="google_adid" value="8ac9b922-e17c-4ccd-8165-b2572a68aec1" />
+<item key="build_id" value="MMB29K" />
+<item key="build_display" value="IMM76L" />
+<item key="build_incremental" value="77E2518139DE" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G550T" />
+<item key="build_brand" value="Samsung" />
+<item key="build_product" value="On5
+" />
+<item key="build_device" value="4D301" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Samsung/On5
+/4D301:6.0.1/MMB29K/77E2518139DE:user/user" />
+<item key="build_serial" value="SM-G550T" />
+<item key="build_hardware" value="SM-G550T" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="9c91fa7ec5e9684f" />
+<item key="tele_getdeviceid" value="316185059431146" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89036991975518114479" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="721901939724551" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; SM-G550T Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="7f:46:b2:f0:e2:ff" />
+<item key="wifiinfo_getmacaddress" value="00:26:e2:20:00:15" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="cad7c94fc7cd" />
+<item key="status" value="t" />
+</phones>

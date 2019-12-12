@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4317" />
+<item key="google_adid" value="d29b51ce-944b-4f45-b855-a1ae0337973d" />
+<item key="build_id" value="NPJ25.93-14.5" />
+<item key="build_display" value="GRK39F" />
+<item key="build_incremental" value="E09AA6505" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Moto G (4)" />
+<item key="build_brand" value="Moto" />
+<item key="build_product" value="Moto G4
+" />
+<item key="build_device" value="9B3B7" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Motorola" />
+<item key="build_fingerprint" value="Moto/Moto G4
+/9B3B7:7.0/NPJ25.93-14.5/E09AA6505:user/user" />
+<item key="build_serial" value="Moto G (4)" />
+<item key="build_hardware" value="Moto G (4)" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="402a7f3796ff03e6" />
+<item key="tele_getdeviceid" value="562041468854671" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="3" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89054706105535819272" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="247788550631525" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; Moto G (4) Build/NPJ25.93-14.5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="8f:7c:ea:95:53:7e" />
+<item key="wifiinfo_getmacaddress" value="14:d1:1f:5a:bb:00" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="01f0b94cc" />
+<item key="status" value="t" />
+</phones>

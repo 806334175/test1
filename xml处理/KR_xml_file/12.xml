@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2537" />
+<item key="google_adid" value="aac26ad8-a7a4-4d47-8922-1a5a8e802dbf" />
+<item key="build_id" value="LRX22C" />
+<item key="build_display" value="IML74K" />
+<item key="build_incremental" value="96AD482" />
+<item key="build_sdk_int" value="21" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SCH i545" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S4
+" />
+<item key="build_device" value="C6935" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S4
+/C6935:5.0.1/LRX22C/96AD482:user/user" />
+<item key="build_serial" value="SCH i545" />
+<item key="build_hardware" value="SCH i545" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="f09494d1db0cab90" />
+<item key="tele_getdeviceid" value="408997440852480" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45008" />
+<item key="tele_getnetworkoperatorname" value="Korea Telecom" />
+<item key="tele_getnetworktype" value="3" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45008" />
+<item key="tele_getsimoperatorname" value="Korea Telecom" />
+<item key="tele_getsimserialnumber" value="89003440044143572332" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="353001040894959" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.0.1; SCH-I545 Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="62:20:1d:09:7b:47" />
+<item key="wifiinfo_getmacaddress" value="68:79:ed:61:ae:fa" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="1f59c842fc3a" />
+<item key="status" value="t" />
+</phones>

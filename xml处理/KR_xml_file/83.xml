@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5399" />
+<item key="google_adid" value="0f9bfcc7-dc38-4d07-80a3-782556db43da" />
+<item key="build_id" value="NRD90U" />
+<item key="build_display" value="JRO03C" />
+<item key="build_incremental" value="84C86E6F" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="K550" />
+<item key="build_brand" value="Stylus" />
+<item key="build_product" value="Stylus 2 Plus
+" />
+<item key="build_device" value="0DF08" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="Stylus/Stylus 2 Plus
+/0DF08:7.0/NRD90U/84C86E6F:user/user" />
+<item key="build_serial" value="K550" />
+<item key="build_hardware" value="K550" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="1bfb2bee44b0a29e" />
+<item key="tele_getdeviceid" value="845756440663461" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45008" />
+<item key="tele_getnetworkoperatorname" value="Korea Telecom" />
+<item key="tele_getnetworktype" value="10" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45008" />
+<item key="tele_getsimoperatorname" value="Korea Telecom" />
+<item key="tele_getsimserialnumber" value="89057883722819693408" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="157021719099218" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; LG-K550 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="ac:3f:6b:d6:60:22" />
+<item key="wifiinfo_getmacaddress" value="3c:bd:d8:7e:a3:85" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="7e34ab40" />
+<item key="status" value="t" />
+</phones>

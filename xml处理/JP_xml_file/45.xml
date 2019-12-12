@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3848" />
+<item key="google_adid" value="95cf421e-e3b7-44c6-84f6-9aeb8b768fdd" />
+<item key="build_id" value="39.0.D.0.327" />
+<item key="build_display" value="IMM76L" />
+<item key="build_incremental" value="8E19812E" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="601SO" />
+<item key="build_brand" value="Xperia" />
+<item key="build_product" value="Xperia XZ
+" />
+<item key="build_device" value="B2859" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Sony" />
+<item key="build_fingerprint" value="Xperia/Xperia XZ
+/B2859:6.0.1/39.0.D.0.327/8E19812E:user/user" />
+<item key="build_serial" value="601SO" />
+<item key="build_hardware" value="601SO" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="03589d68428ecdd7" />
+<item key="tele_getdeviceid" value="508157554375209" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44010" />
+<item key="tele_getnetworkoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44010" />
+<item key="tele_getsimoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getsimserialnumber" value="89063975421730547612" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="107789035411780" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; 601SO Build/39.0.D.0.327; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="15:69:4b:e0:80:fe" />
+<item key="wifiinfo_getmacaddress" value="48:ad:08:02:b2:5a" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="d9a1c6f32" />
+<item key="status" value="t" />
+</phones>

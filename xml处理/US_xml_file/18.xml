@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3091" />
+<item key="google_adid" value="8095dee2-19df-4513-86ce-608b64f59a14" />
+<item key="build_id" value="NRD90U" />
+<item key="build_display" value="IMM76I" />
+<item key="build_incremental" value="AFB0B035" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="MS210" />
+<item key="build_brand" value="LG" />
+<item key="build_product" value="Aristo
+" />
+<item key="build_device" value="FB6B1" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="LG/Aristo
+/FB6B1:7.0/NRD90U/AFB0B035:user/user" />
+<item key="build_serial" value="MS210" />
+<item key="build_hardware" value="MS210" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="0877f8b75b6479bc" />
+<item key="tele_getdeviceid" value="826188198606824" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89076714254822015618" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="174773689270650" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; LGMS210 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="d3:59:53:75:4c:e7" />
+<item key="wifiinfo_getmacaddress" value="00:1e:75:69:4a:63" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="8ad517c" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3543" />
+<item key="google_adid" value="21542cc6-38f3-47be-b598-6f60ee09da85" />
+<item key="build_id" value="V10R27A" />
+<item key="build_display" value="IMM76K" />
+<item key="build_incremental" value="C7C7DC6AA1F4BA" />
+<item key="build_sdk_int" value="21" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.0.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="F-02G" />
+<item key="build_brand" value="Arrows" />
+<item key="build_product" value="Arrows NX F-02G
+" />
+<item key="build_device" value="947E3" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="DoCoMo" />
+<item key="build_fingerprint" value="Arrows/Arrows NX F-02G
+/947E3:5.0.2/V10R27A/C7C7DC6AA1F4BA:user/user" />
+<item key="build_serial" value="F-02G" />
+<item key="build_hardware" value="F-02G" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="5be2828ed1705384" />
+<item key="tele_getdeviceid" value="500985376042592" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89031656128407441487" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="209127562461703" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.0.2; F-02G Build/V10R27A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="aa:81:1c:fd:45:d2" />
+<item key="wifiinfo_getmacaddress" value="5c:a8:6a:a8:b4:aa" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="a2e9f83f1d2f" />
+<item key="status" value="t" />
+</phones>

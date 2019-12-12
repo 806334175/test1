@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2074" />
+<item key="google_adid" value="bcab8060-007d-4b34-ab9e-a6eb4e34c591" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IMM76J" />
+<item key="build_incremental" value="A104B776B614" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G900V" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S5
+" />
+<item key="build_device" value="F8644" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S5
+/F8644:6.0.1/MMB29M/A104B776B614:user/user" />
+<item key="build_serial" value="SM-G900V" />
+<item key="build_hardware" value="SM-G900V" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="3b701fbb195b8779" />
+<item key="tele_getdeviceid" value="651661395503222" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89011208545835048951" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="499880586898902" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; SM-G900V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="be:e1:d1:5b:6d:0a" />
+<item key="wifiinfo_getmacaddress" value="68:79:ed:27:78:6b" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="d377983" />
+<item key="status" value="t" />
+</phones>

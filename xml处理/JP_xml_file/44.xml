@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3616" />
+<item key="google_adid" value="54527b59-1bad-4a7d-a409-6ede63b34e17" />
+<item key="build_id" value="14.3.C.0.300" />
+<item key="build_display" value="GRJ90" />
+<item key="build_incremental" value="36298" />
+<item key="build_sdk_int" value="19" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="4.4.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SOL23" />
+<item key="build_brand" value="Xperia" />
+<item key="build_product" value="Xperia Z1 LTE
+" />
+<item key="build_device" value="FA1D5" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="KDDI" />
+<item key="build_fingerprint" value="Xperia/Xperia Z1 LTE
+/FA1D5:4.4.2/14.3.C.0.300/36298:user/user" />
+<item key="build_serial" value="SOL23" />
+<item key="build_hardware" value="SOL23" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="9f2d54720e71eea7" />
+<item key="tele_getdeviceid" value="590065765224461" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="10" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89021680442977490842" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="733169216314279" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 4.4.2; SOL23 Build/14.3.C.0.300) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="7b:3a:12:0c:c3:4d" />
+<item key="wifiinfo_getmacaddress" value="80:6c:1b:82:78:0f" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="885cd931d4a8" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4320" />
+<item key="google_adid" value="9628fc90-e063-4730-b1e8-98d48e19c136" />
+<item key="build_id" value="LMY47V" />
+<item key="build_display" value="IMM76G" />
+<item key="build_incremental" value="8639756645" />
+<item key="build_sdk_int" value="22" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.1.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="F1f" />
+<item key="build_brand" value="OPPO" />
+<item key="build_product" value="F1f" />
+<item key="build_device" value="A1ACF" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="OPPO" />
+<item key="build_fingerprint" value="OPPO/F1f/A1ACF:5.1.1/LMY47V/8639756645:user/user" />
+<item key="build_serial" value="F1f" />
+<item key="build_hardware" value="F1f" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="e71a70f9ca7b8e7a" />
+<item key="tele_getdeviceid" value="532979125076015" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44010" />
+<item key="tele_getnetworkoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44010" />
+<item key="tele_getsimoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getsimserialnumber" value="89075809938042486341" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="461601191648362" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.1.1; F1f Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.97 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="aa:41:4b:19:9b:fc" />
+<item key="wifiinfo_getmacaddress" value="04:27:58:42:eb:64" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="0ae8c2e1240" />
+<item key="status" value="t" />
+</phones>

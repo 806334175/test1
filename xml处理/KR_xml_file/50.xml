@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4058" />
+<item key="google_adid" value="ccd1bfb9-a213-460b-83f1-25f85d9430f5" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="IMM76L" />
+<item key="build_incremental" value="E30242717CEC2" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G935V" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S7 Edge
+" />
+<item key="build_device" value="5B5EF" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S7 Edge
+/5B5EF:7.0/NRD90M/E30242717CEC2:user/user" />
+<item key="build_serial" value="SM-G935V" />
+<item key="build_hardware" value="SM-G935V" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="b0551a6f5d82a523" />
+<item key="tele_getdeviceid" value="352468219796504" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45005" />
+<item key="tele_getnetworkoperatorname" value="SK Telecom" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45005" />
+<item key="tele_getsimoperatorname" value="SK Telecom" />
+<item key="tele_getsimserialnumber" value="89036423709204720031" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="988189265508525" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SM-G935V Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="b3:98:c4:d0:89:04" />
+<item key="wifiinfo_getmacaddress" value="a4:70:d6:99:cc:c2" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="410d4a593d" />
+<item key="status" value="t" />
+</phones>

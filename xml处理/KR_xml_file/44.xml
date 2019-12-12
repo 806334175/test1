@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3851" />
+<item key="google_adid" value="803d1efb-dc53-40ad-8c17-e7bb9293c02b" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IMM76E" />
+<item key="build_incremental" value="F169B287826B8B" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-J327P" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy J3 2017
+" />
+<item key="build_device" value="3ECAF" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy J3 2017
+/3ECAF:6.0.1/MMB29M/F169B287826B8B:user/user" />
+<item key="build_serial" value="SM-J327P" />
+<item key="build_hardware" value="SM-J327P" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="d9e617887d321f42" />
+<item key="tele_getdeviceid" value="431399731860421" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45006" />
+<item key="tele_getnetworkoperatorname" value="LG Telecom" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45006" />
+<item key="tele_getsimoperatorname" value="LG Telecom" />
+<item key="tele_getsimserialnumber" value="89098403812919145480" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="525948480257606" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; SM-J327P Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="d2:2c:3d:9d:d3:43" />
+<item key="wifiinfo_getmacaddress" value="24:31:84:14:b5:d6" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="bfe30297a9" />
+<item key="status" value="t" />
+</phones>

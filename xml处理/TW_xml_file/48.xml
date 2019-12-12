@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4193" />
+<item key="google_adid" value="c592c05a-b0f4-46fe-9522-2109732a877b" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IMM76J" />
+<item key="build_incremental" value="1A3AFD9F6E8" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Z799VL" />
+<item key="build_brand" value="Majesty" />
+<item key="build_product" value="Majesty Pro
+" />
+<item key="build_device" value="D197F" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="ZTE" />
+<item key="build_fingerprint" value="Majesty/Majesty Pro
+/D197F:6.0.1/MMB29M/1A3AFD9F6E8:user/user" />
+<item key="build_serial" value="Z799VL" />
+<item key="build_hardware" value="Z799VL" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="c01b3236e002ef00" />
+<item key="tele_getdeviceid" value="671683402311350" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89095131906380316590" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="751401760614413" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; Z799VL Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.77 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="0c:66:3a:6e:8b:bd" />
+<item key="wifiinfo_getmacaddress" value="9c:74:1a:29:4c:aa" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="3884a60b7c" />
+<item key="status" value="t" />
+</phones>

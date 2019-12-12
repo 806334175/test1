@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5474" />
+<item key="google_adid" value="112A8D9C-A111-4AED-A236-45C959777103" />
+<item key="build_id" value="MMB29P" />
+<item key="build_display" value="IMM76J" />
+<item key="build_incremental" value="3928A420990" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Z012DA" />
+<item key="build_brand" value="Zenfone" />
+<item key="build_product" value="Zenfone 3 ZE552KL
+" />
+<item key="build_device" value="A4788" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Asus" />
+<item key="build_fingerprint" value="Zenfone/Zenfone 3 ZE552KL
+/A4788:6.0.1/MMB29P/3928A420990:user/user" />
+<item key="build_serial" value="Z012DA" />
+<item key="build_hardware" value="Z012DA" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="e0674b9df60b4079" />
+<item key="tele_getdeviceid" value="843766871784130" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89081744702005410624" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="126898108384957" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; ASUS_Z012DA Build/MMB29P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="5a:34:0b:a7:20:81" />
+<item key="wifiinfo_getmacaddress" value="f8:5c:45:b4:9e:f0" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="e6fb31e0689" />
+<item key="status" value="t" />
+</phones>

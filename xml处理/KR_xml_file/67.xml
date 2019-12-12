@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4617" />
+<item key="google_adid" value="e4983c31-c54b-4ddc-b74b-112886a03e60" />
+<item key="build_id" value="MRA58K" />
+<item key="build_display" value="IMM76H" />
+<item key="build_incremental" value="BDA0365" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Studio XL 2" />
+<item key="build_brand" value="Studio" />
+<item key="build_product" value="Studio XL 2
+" />
+<item key="build_device" value="DCEC6" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="BLU" />
+<item key="build_fingerprint" value="Studio/Studio XL 2
+/DCEC6:6.0/MRA58K/BDA0365:user/user" />
+<item key="build_serial" value="Studio XL 2" />
+<item key="build_hardware" value="Studio XL 2" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="3126d2c81b8abeee" />
+<item key="tele_getdeviceid" value="706998471841649" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45006" />
+<item key="tele_getnetworkoperatorname" value="LG Telecom" />
+<item key="tele_getnetworktype" value="0" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45006" />
+<item key="tele_getsimoperatorname" value="LG Telecom" />
+<item key="tele_getsimserialnumber" value="89066320204226744728" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="309842366848637" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0; Studio XL 2 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="8b:e2:2f:8c:61:62" />
+<item key="wifiinfo_getmacaddress" value="78:1c:5a:23:11:ae" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="38f79117d42" />
+<item key="status" value="t" />
+</phones>

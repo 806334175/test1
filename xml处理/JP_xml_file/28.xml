@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3037" />
+<item key="google_adid" value="d3dbca29-c184-4016-a681-173679b18333" />
+<item key="build_id" value="MOB30X" />
+<item key="build_display" value="GRH78" />
+<item key="build_incremental" value="0F80B45FA90B76" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="7" />
+<item key="build_brand" value="Nexus" />
+<item key="build_product" value="Nexus 7" />
+<item key="build_device" value="26B1D" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Google" />
+<item key="build_fingerprint" value="Nexus/Nexus 7/26B1D:6.0.1/MOB30X/0F80B45FA90B76:user/user" />
+<item key="build_serial" value="7" />
+<item key="build_hardware" value="7" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="a3c384134a03951d" />
+<item key="tele_getdeviceid" value="112800937115408" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44010" />
+<item key="tele_getnetworkoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getnetworktype" value="0" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44010" />
+<item key="tele_getsimoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getsimserialnumber" value="89023358148190250307" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="680059071452404" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Safari/537.36" />
+<item key="wifiinfo_getbssid" value="18:18:96:6c:d7:dd" />
+<item key="wifiinfo_getmacaddress" value="48:ad:08:3f:bf:73" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="b985422" />
+<item key="status" value="t" />
+</phones>

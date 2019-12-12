@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2567" />
+<item key="google_adid" value="7a20c6d3-9f85-4e1f-990c-55f10291c1c9" />
+<item key="build_id" value="S6260" />
+<item key="build_display" value="IMM76I" />
+<item key="build_incremental" value="94EACFB92A9" />
+<item key="build_sdk_int" value="21" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.0.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SH-04G" />
+<item key="build_brand" value="Aquos" />
+<item key="build_product" value="Aquos Ever
+" />
+<item key="build_device" value="25D7A" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Sharp" />
+<item key="build_fingerprint" value="Aquos/Aquos Ever
+/25D7A:5.0.2/S6260/94EACFB92A9:user/user" />
+<item key="build_serial" value="SH-04G" />
+<item key="build_hardware" value="SH-04G" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="dd06c27928807f3d" />
+<item key="tele_getdeviceid" value="273456632757659" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="0" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89053208144967773746" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="435022241674708" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.0.2; SH-04G Build/S6260; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="10:e3:53:97:67:05" />
+<item key="wifiinfo_getmacaddress" value="98:aa:fc:20:e0:b9" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="0d4bedd44" />
+<item key="status" value="t" />
+</phones>

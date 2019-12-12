@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3871" />
+<item key="google_adid" value="33166a85-6b67-4641-913a-6f10de44d51a" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="IMM76G" />
+<item key="build_incremental" value="6EF3" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G891A" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S7 Active
+" />
+<item key="build_device" value="6708A" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S7 Active
+/6708A:7.0/NRD90M/6EF3:user/user" />
+<item key="build_serial" value="SM-G891A" />
+<item key="build_hardware" value="SM-G891A" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="b1debe2b5e1c0489" />
+<item key="tele_getdeviceid" value="635427648166491" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89012310528464366586" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="309677882294195" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SAMSUNG-SM-G891A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="d6:19:95:22:de:2d" />
+<item key="wifiinfo_getmacaddress" value="a8:16:b2:fe:af:3f" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="f30c0050ffa" />
+<item key="status" value="t" />
+</phones>

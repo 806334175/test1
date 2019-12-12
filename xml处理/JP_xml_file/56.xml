@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4516" />
+<item key="google_adid" value="3ef1bc5f-1f4a-494f-9967-f19baf728272" />
+<item key="build_id" value="JZO54K" />
+<item key="build_display" value="GRJ22" />
+<item key="build_incremental" value="B3C2E9117C4BA1" />
+<item key="build_sdk_int" value="16" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="4.1.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SC-06D" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S III
+" />
+<item key="build_device" value="AE0A8" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S III
+/AE0A8:4.1.2/JZO54K/B3C2E9117C4BA1:user/user" />
+<item key="build_serial" value="SC-06D" />
+<item key="build_hardware" value="SC-06D" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="d96bb26fc83eaa53" />
+<item key="tele_getdeviceid" value="628905071458789" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44010" />
+<item key="tele_getnetworkoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getnetworktype" value="3" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44010" />
+<item key="tele_getsimoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getsimserialnumber" value="89065904394031692671" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="718345556559499" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; U; Android 4.1.2; ja-jp; SC-06D Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30" />
+<item key="wifiinfo_getbssid" value="25:0a:f0:62:37:73" />
+<item key="wifiinfo_getmacaddress" value="6c:d6:8a:63:b7:e0" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="ac13b8fbb5" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2737" />
+<item key="google_adid" value="6bbee9cf-1e46-4643-9211-d7f6d08b82ec" />
+<item key="build_id" value="NRD90U" />
+<item key="build_display" value="IMM76F" />
+<item key="build_incremental" value="A03CBD" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="TP450" />
+<item key="build_brand" value="Stylo" />
+<item key="build_product" value="Stylo 3 Plus
+" />
+<item key="build_device" value="94417" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="Stylo/Stylo 3 Plus
+/94417:7.0/NRD90U/A03CBD:user/user" />
+<item key="build_serial" value="TP450" />
+<item key="build_hardware" value="TP450" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="f76182042a93f26c" />
+<item key="tele_getdeviceid" value="152662384994373" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45005" />
+<item key="tele_getnetworkoperatorname" value="SK Telecom" />
+<item key="tele_getnetworktype" value="10" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45005" />
+<item key="tele_getsimoperatorname" value="SK Telecom" />
+<item key="tele_getsimserialnumber" value="89025224378511385446" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="206495730228578" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; LG-TP450 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="d7:dc:f5:0e:13:a5" />
+<item key="wifiinfo_getmacaddress" value="f4:f5:24:2d:d1:72" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="cbcb82e" />
+<item key="status" value="t" />
+</phones>

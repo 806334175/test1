@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5309" />
+<item key="google_adid" value="adffa46b-6d24-4f0f-982c-f86c1deb45e0" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="ITL41D" />
+<item key="build_incremental" value="486B9F15" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SCV33" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S7 Edge
+" />
+<item key="build_device" value="7EBB7" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S7 Edge
+/7EBB7:7.0/NRD90M/486B9F15:user/user" />
+<item key="build_serial" value="SCV33" />
+<item key="build_hardware" value="SCV33" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="7fa36d14e4f2541f" />
+<item key="tele_getdeviceid" value="181159691645353" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44020" />
+<item key="tele_getnetworkoperatorname" value="SoftBank Corp." />
+<item key="tele_getnetworktype" value="0" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44020" />
+<item key="tele_getsimoperatorname" value="SoftBank Corp." />
+<item key="tele_getsimserialnumber" value="89073655131902789495" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="087612396023427" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SCV33 Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="44:9a:43:d0:6e:31" />
+<item key="wifiinfo_getmacaddress" value="f4:f1:e1:81:98:3c" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="c0ebbe5d1a" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3513" />
+<item key="google_adid" value="77df81d5-2848-4925-a9fa-5c63e31d3667" />
+<item key="build_id" value="LMY47V" />
+<item key="build_display" value="IMM76G" />
+<item key="build_incremental" value="21B1D93CB76F" />
+<item key="build_sdk_int" value="22" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.1.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="4060A" />
+<item key="build_brand" value="Alcatel" />
+<item key="build_product" value="4060A
+" />
+<item key="build_device" value="EE128" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Alcatel" />
+<item key="build_fingerprint" value="Alcatel/4060A
+/EE128:5.1.1/LMY47V/21B1D93CB76F:user/user" />
+<item key="build_serial" value="4060A" />
+<item key="build_hardware" value="4060A" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="a92caa58c40f01ae" />
+<item key="tele_getdeviceid" value="579182348245155" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89041784921775584392" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="589693656100000" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.1.1; Alcatel_4060A Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="18:b3:d1:28:57:55" />
+<item key="wifiinfo_getmacaddress" value="48:fd:8e:81:03:ad" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="469aef06" />
+<item key="status" value="t" />
+</phones>

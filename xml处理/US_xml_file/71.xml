@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="6245" />
+<item key="google_adid" value="51cfd1fa-16cf-4c1a-b57c-e822b8bb9093" />
+<item key="build_id" value="NCL25.86-11-4-6" />
+<item key="build_display" value="IMM76E" />
+<item key="build_incremental" value="EF3D" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="XT1650" />
+<item key="build_brand" value="Moto" />
+<item key="build_product" value="Moto Z Droid
+" />
+<item key="build_device" value="F30AB" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Motorola" />
+<item key="build_fingerprint" value="Moto/Moto Z Droid
+/F30AB:7.0/NCL25.86-11-4-6/EF3D:user/user" />
+<item key="build_serial" value="XT1650" />
+<item key="build_hardware" value="XT1650" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="71b941bafcf092fb" />
+<item key="tele_getdeviceid" value="260458566685060" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="10" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89014990525029623132" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="686955925145334" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; XT1650 Build/NCL25.86-11-4-6; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="bc:72:9a:78:28:36" />
+<item key="wifiinfo_getmacaddress" value="98:aa:fc:4a:c5:7b" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="65aa175afc6d" />
+<item key="status" value="t" />
+</phones>

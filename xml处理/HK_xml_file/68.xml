@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3634" />
+<item key="google_adid" value="c36c2e3b-28de-4490-b20a-34d055c346c7" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IMM76G" />
+<item key="build_incremental" value="F9400" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-N910A" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy Note 4
+" />
+<item key="build_device" value="F7F49" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy Note 4
+/F7F49:6.0.1/MMB29M/F9400:user/user" />
+<item key="build_serial" value="SM-N910A" />
+<item key="build_hardware" value="SM-N910A" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="2836fd50e8c52bc7" />
+<item key="tele_getdeviceid" value="886247916070133" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="HK" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="13" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="HK" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89064111448585759504" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="422462057720596" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-N910A Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="76:52:78:98:8c:17" />
+<item key="wifiinfo_getmacaddress" value="24:df:6a:9c:76:6b" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="b1184f0754" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4821" />
+<item key="google_adid" value="3a2f58e6-41a6-4296-a316-bbd4a01d01c3" />
+<item key="build_id" value="V15R051C" />
+<item key="build_display" value="IML74K" />
+<item key="build_incremental" value="14EE0FC93FF" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="F-04H" />
+<item key="build_brand" value="Arrows" />
+<item key="build_product" value="Arrows Tab
+" />
+<item key="build_device" value="CAD55" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Fujitsu" />
+<item key="build_fingerprint" value="Arrows/Arrows Tab
+/CAD55:6.0.1/V15R051C/14EE0FC93FF:user/user" />
+<item key="build_serial" value="F-04H" />
+<item key="build_hardware" value="F-04H" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="2da5e4019cb65ef5" />
+<item key="tele_getdeviceid" value="217342619811252" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44020" />
+<item key="tele_getnetworkoperatorname" value="SoftBank Corp." />
+<item key="tele_getnetworktype" value="10" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44020" />
+<item key="tele_getsimoperatorname" value="SoftBank Corp." />
+<item key="tele_getsimserialnumber" value="89019105864448612934" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="597406884564494" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; F-04H Build/V15R051C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Safari/537.36" />
+<item key="wifiinfo_getbssid" value="6d:e4:11:f4:be:94" />
+<item key="wifiinfo_getmacaddress" value="98:aa:fc:29:88:5a" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="995e1668a1" />
+<item key="status" value="t" />
+</phones>

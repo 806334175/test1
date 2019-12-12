@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5289" />
+<item key="google_adid" value="9ff0358b-ba49-4b20-9bdf-f160c85c2b47" />
+<item key="build_id" value="NRD90U" />
+<item key="build_display" value="IMM76E" />
+<item key="build_incremental" value="2AAD6020" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="MS550" />
+<item key="build_brand" value="Stylus" />
+<item key="build_product" value="Stylus 2 Plus
+" />
+<item key="build_device" value="0491E" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="Stylus/Stylus 2 Plus
+/0491E:7.0/NRD90U/2AAD6020:user/user" />
+<item key="build_serial" value="MS550" />
+<item key="build_hardware" value="MS550" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="5cef02f517dc8cde" />
+<item key="tele_getdeviceid" value="719156594619610" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="HK" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="HK" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89006067319804211483" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="747462887326608" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; LGMS550 Build/NRD90U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="a4:55:d3:36:19:50" />
+<item key="wifiinfo_getmacaddress" value="84:10:0d:93:d9:1b" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="dbbe568aa52" />
+<item key="status" value="t" />
+</phones>

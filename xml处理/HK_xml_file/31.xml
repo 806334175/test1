@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2033" />
+<item key="google_adid" value="02b83fa9-1ee5-4cf6-ac0a-851e460e117c" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="IMM76K" />
+<item key="build_incremental" value="529DC16" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G920T" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S6
+" />
+<item key="build_device" value="016DC" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S6
+/016DC:7.0/NRD90M/529DC16:user/user" />
+<item key="build_serial" value="SM-G920T" />
+<item key="build_hardware" value="SM-G920T" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="07fb86289be5a947" />
+<item key="tele_getdeviceid" value="346834166467488" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="HK" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="10" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="HK" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89067901540070818525" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="387943597637625" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SM-G920T Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="9c:d4:78:77:03:2e" />
+<item key="wifiinfo_getmacaddress" value="9c:c7:d1:5b:c3:4d" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="c7131f3694f5" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5580" />
+<item key="google_adid" value="77d379ac-f713-4a44-bb46-4f19e58b7718" />
+<item key="build_id" value="HUAWEIFRD-L02" />
+<item key="build_display" value="IMM76F" />
+<item key="build_incremental" value="6D91FDA21EEE74" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="FRD-L02" />
+<item key="build_brand" value="Honor" />
+<item key="build_product" value="Honor 8
+" />
+<item key="build_device" value="14149" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Huawei" />
+<item key="build_fingerprint" value="Honor/Honor 8
+/14149:6.0/HUAWEIFRD-L02/6D91FDA21EEE74:user/user" />
+<item key="build_serial" value="FRD-L02" />
+<item key="build_hardware" value="FRD-L02" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="85f3e1390410171a" />
+<item key="tele_getdeviceid" value="577977392518561" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89098903300493326682" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="886212960812657" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0; FRD-L02 Build/HUAWEIFRD-L02; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="7c:2b:9e:1d:e4:1b" />
+<item key="wifiinfo_getmacaddress" value="f4:f5:24:dd:e1:77" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="652f049b9" />
+<item key="status" value="t" />
+</phones>

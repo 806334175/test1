@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4629" />
+<item key="google_adid" value="5a2174e5-88a0-4a4f-b25f-a14608d556f5" />
+<item key="build_id" value="MPIS24.241-2.35-2-17" />
+<item key="build_display" value="GRI40" />
+<item key="build_incremental" value="E2833E8B" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Moto G Play" />
+<item key="build_brand" value="Moto" />
+<item key="build_product" value="Moto G4 Play
+" />
+<item key="build_device" value="46F1B" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Motorola" />
+<item key="build_fingerprint" value="Moto/Moto G4 Play
+/46F1B:6.0.1/MPIS24.241-2.35-2-17/E2833E8B:user/user" />
+<item key="build_serial" value="Moto G Play" />
+<item key="build_hardware" value="Moto G Play" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="7157e37d60f06066" />
+<item key="tele_getdeviceid" value="301341821515788" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89000453242172100806" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="272635741506046" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; Moto G Play Build/MPIS24.241-2.35-2-17; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="94:23:b2:f6:11:40" />
+<item key="wifiinfo_getmacaddress" value="24:44:27:8b:a6:ff" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="9e4e205775" />
+<item key="status" value="t" />
+</phones>

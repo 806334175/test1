@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3297" />
+<item key="google_adid" value="bda9dc6d-2377-482b-a1be-86104d39c22e" />
+<item key="build_id" value="MXB48T" />
+<item key="build_display" value="IMM76G" />
+<item key="build_incremental" value="4766D26" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="LGLS676" />
+<item key="build_brand" value="Tribute" />
+<item key="build_product" value="Tribute HD
+" />
+<item key="build_device" value="38D2B" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="Tribute/Tribute HD
+/38D2B:6.0.1/MXB48T/4766D26:user/user" />
+<item key="build_serial" value="LGLS676" />
+<item key="build_hardware" value="LGLS676" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="edd961fdb48ec56b" />
+<item key="tele_getdeviceid" value="020806452260993" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89056002022641091498" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="808237767990728" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; LGLS676 Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="ca:80:4f:a8:4a:f3" />
+<item key="wifiinfo_getmacaddress" value="98:aa:fc:49:c1:ba" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="5e88098" />
+<item key="status" value="t" />
+</phones>

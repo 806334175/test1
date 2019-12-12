@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4798" />
+<item key="google_adid" value="a7adb3e5-f49d-42d7-819b-7005d5f2e9ca" />
+<item key="build_id" value="MRA58K" />
+<item key="build_display" value="IML74K" />
+<item key="build_incremental" value="D494" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="MS631" />
+<item key="build_brand" value="G" />
+<item key="build_product" value="G Stylo
+" />
+<item key="build_device" value="17C42" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="G/G Stylo
+/17C42:6.0/MRA58K/D494:user/user" />
+<item key="build_serial" value="MS631" />
+<item key="build_hardware" value="MS631" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="b3c77d12cbb628ee" />
+<item key="tele_getdeviceid" value="188520022216952" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89085171818277914161" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="332432529085391" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0; LGMS631 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="15:87:10:11:98:f9" />
+<item key="wifiinfo_getmacaddress" value="54:51:1b:56:19:50" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="b3fd1ea" />
+<item key="status" value="t" />
+</phones>

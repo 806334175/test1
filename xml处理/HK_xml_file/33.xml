@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2066" />
+<item key="google_adid" value="56a0acb1-3417-428e-8414-90305ce5b749" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="GRJ90" />
+<item key="build_incremental" value="FC17710" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="Desire 530" />
+<item key="build_brand" value="Desire" />
+<item key="build_product" value="Desire 530
+" />
+<item key="build_device" value="F2B8C" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="HTC" />
+<item key="build_fingerprint" value="Desire/Desire 530
+/F2B8C:6.0.1/MMB29M/FC17710:user/user" />
+<item key="build_serial" value="Desire 530" />
+<item key="build_hardware" value="Desire 530" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="fbfa9323157f4b44" />
+<item key="tele_getdeviceid" value="404060588814183" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="HK" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="HK" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89077429403277860717" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="889549825960928" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; HTC Desire 530 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="ee:ef:44:dd:74:3a" />
+<item key="wifiinfo_getmacaddress" value="00:20:75:f1:df:5d" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="332c4358776e" />
+<item key="status" value="t" />
+</phones>

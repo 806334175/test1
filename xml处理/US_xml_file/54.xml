@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5420" />
+<item key="google_adid" value="c3ee86bf-5cb4-42d4-a18e-5fe4dd6fb942" />
+<item key="build_id" value="MCG24.251-5-5" />
+<item key="build_display" value="IMM76H" />
+<item key="build_incremental" value="C08DE7A450" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="XT1254" />
+<item key="build_brand" value="Droid" />
+<item key="build_product" value="Droid Turbo
+" />
+<item key="build_device" value="46318" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Motorola" />
+<item key="build_fingerprint" value="Droid/Droid Turbo
+/46318:6.0.1/MCG24.251-5-5/C08DE7A450:user/user" />
+<item key="build_serial" value="XT1254" />
+<item key="build_hardware" value="XT1254" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="07ab3c110bbe65a8" />
+<item key="tele_getdeviceid" value="696380645112810" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="8" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89068679226270413341" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="784535693368782" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; XT1254 Build/MCG24.251-5-5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="3d:9d:8a:80:ba:59" />
+<item key="wifiinfo_getmacaddress" value="24:df:6a:e4:58:00" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="6889bef" />
+<item key="status" value="t" />
+</phones>

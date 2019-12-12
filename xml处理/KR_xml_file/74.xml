@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4973" />
+<item key="google_adid" value="a2b00a8a-1ffe-4d1d-98b5-e9b0c5fa798f" />
+<item key="build_id" value="LRX21T" />
+<item key="build_display" value="IMM76G" />
+<item key="build_incremental" value="C5A9EA1CCA40" />
+<item key="build_sdk_int" value="21" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G870A" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S5 Active
+" />
+<item key="build_device" value="C38FF" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S5 Active
+/C38FF:5.0/LRX21T/C5A9EA1CCA40:user/user" />
+<item key="build_serial" value="SM-G870A" />
+<item key="build_hardware" value="SM-G870A" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="4c33a4142f938c0e" />
+<item key="tele_getdeviceid" value="447279176722859" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45005" />
+<item key="tele_getnetworkoperatorname" value="SK Telecom" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45005" />
+<item key="tele_getsimoperatorname" value="SK Telecom" />
+<item key="tele_getsimserialnumber" value="89092390512891248313" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="407040921805984" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.0; SAMSUNG-SM-G870A Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="74:52:c9:58:cf:95" />
+<item key="wifiinfo_getmacaddress" value="6c:d6:8a:e1:2e:22" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="8fb106820c" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="7016" />
+<item key="google_adid" value="ab99bab2-fa55-44ef-891a-33be0f023ad9" />
+<item key="build_id" value="MCD24.294-4-6" />
+<item key="build_display" value="GRJ90" />
+<item key="build_incremental" value="3669921D8A9AEF" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="XT1565" />
+<item key="build_brand" value="Droid" />
+<item key="build_product" value="Droid Maxx 2
+" />
+<item key="build_device" value="DDBF4" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Motorola" />
+<item key="build_fingerprint" value="Droid/Droid Maxx 2
+/DDBF4:6.0.1/MCD24.294-4-6/3669921D8A9AEF:user/user" />
+<item key="build_serial" value="XT1565" />
+<item key="build_hardware" value="XT1565" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="8838e476e421d50f" />
+<item key="tele_getdeviceid" value="949012501767961" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="13" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89067656959401705787" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="035473484016770" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; XT1565 Build/MCD24.294-4-6; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="6f:ed:d7:fb:d7:10" />
+<item key="wifiinfo_getmacaddress" value="60:e3:ac:0f:f0:d3" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="5917388770a1" />
+<item key="status" value="t" />
+</phones>

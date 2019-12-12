@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4936" />
+<item key="google_adid" value="fb5b1c5c-6ac6-4484-b98d-b10610604786" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="ITL41D" />
+<item key="build_incremental" value="543FF" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-N920A" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy Note 5
+" />
+<item key="build_device" value="22757" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy Note 5
+/22757:7.0/NRD90M/543FF:user/user" />
+<item key="build_serial" value="SM-N920A" />
+<item key="build_hardware" value="SM-N920A" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="c62a82020f5fd7be" />
+<item key="tele_getdeviceid" value="530672541164212" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89048576935779598945" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="486323129669834" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SAMSUNG-SM-N920A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="9e:16:cf:bb:33:25" />
+<item key="wifiinfo_getmacaddress" value="68:79:ed:0f:af:9b" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="39bbae745" />
+<item key="status" value="t" />
+</phones>

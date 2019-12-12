@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2727" />
+<item key="google_adid" value="37b6cd56-2fc4-461c-857a-826db551914f" />
+<item key="build_id" value="NCK25.118-10.2" />
+<item key="build_display" value="IMM76D" />
+<item key="build_incremental" value="9812EBE132796" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="XT1585" />
+<item key="build_brand" value="Droid" />
+<item key="build_product" value="Droid Turbo 2
+" />
+<item key="build_device" value="E1AA7" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Motorola" />
+<item key="build_fingerprint" value="Droid/Droid Turbo 2
+/E1AA7:7.0/NCK25.118-10.2/9812EBE132796:user/user" />
+<item key="build_serial" value="XT1585" />
+<item key="build_hardware" value="XT1585" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="6a87b802f2baca04" />
+<item key="tele_getdeviceid" value="289988334128445" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89067728093509257782" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="819953263867257" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; XT1585 Build/NCK25.118-10.2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="d6:77:03:1a:f8:80" />
+<item key="wifiinfo_getmacaddress" value="dc:0b:34:a7:e5:77" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="658cd98a2a" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="6163" />
+<item key="google_adid" value="526797f3-a455-42b0-89fd-abf284f52a5c" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="IMM76H" />
+<item key="build_incremental" value="8C1B" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G930A" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S7
+" />
+<item key="build_device" value="CA4A3" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S7
+/CA4A3:7.0/NRD90M/8C1B:user/user" />
+<item key="build_serial" value="SM-G930A" />
+<item key="build_hardware" value="SM-G930A" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="32e8408702a02c3b" />
+<item key="tele_getdeviceid" value="896150744261805" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89012932853265527021" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="151679246370750" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SAMSUNG-SM-G930A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="a2:ba:17:73:8d:bd" />
+<item key="wifiinfo_getmacaddress" value="00:0f:aa:02:90:1a" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="44b8d4a2" />
+<item key="status" value="t" />
+</phones>

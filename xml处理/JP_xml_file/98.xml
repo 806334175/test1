@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="6101" />
+<item key="google_adid" value="dc380fb8-be86-4c2a-aaeb-4f6890f1f095" />
+<item key="build_id" value="LRX21V" />
+<item key="build_display" value="IML74K" />
+<item key="build_incremental" value="4EB6EC80" />
+<item key="build_sdk_int" value="21" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SCL22" />
+<item key="build_brand" value="GALAXY" />
+<item key="build_product" value="GALAXY NOTE 3
+" />
+<item key="build_device" value="469E1" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="GALAXY/GALAXY NOTE 3
+/469E1:5.0/LRX21V/4EB6EC80:user/user" />
+<item key="build_serial" value="SCL22" />
+<item key="build_hardware" value="SCL22" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="ffdcd7fd73e65e1d" />
+<item key="tele_getdeviceid" value="845424422863776" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44020" />
+<item key="tele_getnetworkoperatorname" value="SoftBank Corp." />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44020" />
+<item key="tele_getsimoperatorname" value="SoftBank Corp." />
+<item key="tele_getsimserialnumber" value="89034759438450881712" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="646851095089892" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.0; SCL22 Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="fd:2e:ec:77:36:89" />
+<item key="wifiinfo_getmacaddress" value="80:38:96:cc:3c:53" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="b9a67c7" />
+<item key="status" value="t" />
+</phones>

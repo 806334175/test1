@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5753" />
+<item key="google_adid" value="c2c92e6f-6c1f-4bd4-a940-979baa3c4b38" />
+<item key="build_id" value="100.0.2210" />
+<item key="build_display" value="JOP40C" />
+<item key="build_incremental" value="B64487" />
+<item key="build_sdk_int" value="22" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.1.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="KYV37" />
+<item key="build_brand" value="WiMAX" />
+<item key="build_product" value="WiMAX 2+
+" />
+<item key="build_device" value="DCEC4" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="KDDI" />
+<item key="build_fingerprint" value="WiMAX/WiMAX 2+
+/DCEC4:5.1.1/100.0.2210/B64487:user/user" />
+<item key="build_serial" value="KYV37" />
+<item key="build_hardware" value="KYV37" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="121e0e9902668f18" />
+<item key="tele_getdeviceid" value="961754560561781" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44010" />
+<item key="tele_getnetworkoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getnetworktype" value="15" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44010" />
+<item key="tele_getsimoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getsimserialnumber" value="89031890134847822076" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="714910747173066" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.1.1; KYV37 Build/100.0.2210; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="0e:d9:c8:8b:b2:a9" />
+<item key="wifiinfo_getmacaddress" value="80:38:96:1e:2d:03" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="b5ed31741" />
+<item key="status" value="t" />
+</phones>

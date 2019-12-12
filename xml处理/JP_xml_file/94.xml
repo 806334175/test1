@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5906" />
+<item key="google_adid" value="40a5782a-1c0d-4406-9c1c-522f95b176a8" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IML74K" />
+<item key="build_incremental" value="7CE84BF12C45" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="HTV31" />
+<item key="build_brand" value="J" />
+<item key="build_product" value="J Butterfly
+" />
+<item key="build_device" value="193FE" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="HTC" />
+<item key="build_fingerprint" value="J/J Butterfly
+/193FE:6.0.1/MMB29M/7CE84BF12C45:user/user" />
+<item key="build_serial" value="HTV31" />
+<item key="build_hardware" value="HTV31" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="2718bb890dba65ab" />
+<item key="tele_getdeviceid" value="131152443893965" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44076" />
+<item key="tele_getnetworkoperatorname" value="KDDI Corporation" />
+<item key="tele_getnetworktype" value="3" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44076" />
+<item key="tele_getsimoperatorname" value="KDDI Corporation" />
+<item key="tele_getsimserialnumber" value="89065376365031777094" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="805413390256079" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; HTV31 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="ea:37:48:61:d6:70" />
+<item key="wifiinfo_getmacaddress" value="24:df:6a:5b:99:d9" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="018ba116b" />
+<item key="status" value="t" />
+</phones>

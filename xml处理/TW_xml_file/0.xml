@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="1038" />
+<item key="google_adid" value="89c12fa6-5310-4685-9f04-dbdae00d538f" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="ITL41F" />
+<item key="build_incremental" value="F0CCB1D70546" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G930P" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S7
+" />
+<item key="build_device" value="75380" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S7
+/75380:7.0/NRD90M/F0CCB1D70546:user/user" />
+<item key="build_serial" value="SM-G930P" />
+<item key="build_hardware" value="SM-G930P" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="6d526d5c4958b91a" />
+<item key="tele_getdeviceid" value="258460479478232" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310380" />
+<item key="tele_getnetworkoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getnetworktype" value="13" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310380" />
+<item key="tele_getsimoperatorname" value="AT&amp;T Mobility" />
+<item key="tele_getsimserialnumber" value="89018901973769171845" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="403532276280601" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SM-G930P Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="a0:bb:d9:c0:2c:c9" />
+<item key="wifiinfo_getmacaddress" value="00:1e:75:3e:7e:cc" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="f90782c6" />
+<item key="status" value="t" />
+</phones>

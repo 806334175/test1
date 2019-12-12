@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="7218" />
+<item key="google_adid" value="54292e2d-ee30-4fcb-9c25-0aa886c02200" />
+<item key="build_id" value="LRX22G" />
+<item key="build_display" value="IMM76H" />
+<item key="build_incremental" value="29863652" />
+<item key="build_sdk_int" value="21" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.0.2" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="VS980" />
+<item key="build_brand" value="LG" />
+<item key="build_product" value="G2
+" />
+<item key="build_device" value="E9C77" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="LG/G2
+/E9C77:5.0.2/LRX22G/29863652:user/user" />
+<item key="build_serial" value="VS980" />
+<item key="build_hardware" value="VS980" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="539e846c256e9e5e" />
+<item key="tele_getdeviceid" value="950142891744390" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="0" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89053615925854226681" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="057626419576180" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.0.2; VS980 4G Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="43:07:7e:c7:47:68" />
+<item key="wifiinfo_getmacaddress" value="c4:43:8f:09:b7:a2" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="3e7777d" />
+<item key="status" value="t" />
+</phones>

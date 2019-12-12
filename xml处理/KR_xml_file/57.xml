@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="4275" />
+<item key="google_adid" value="6f0cca9d-74c8-420e-98b5-5271dc576bb0" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="GRI40" />
+<item key="build_incremental" value="2A6182CEB07" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-N920P" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy Note 5
+" />
+<item key="build_device" value="636FB" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy Note 5
+/636FB:7.0/NRD90M/2A6182CEB07:user/user" />
+<item key="build_serial" value="SM-N920P" />
+<item key="build_hardware" value="SM-N920P" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="94edd0cdd0308f7d" />
+<item key="tele_getdeviceid" value="301087209047449" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45006" />
+<item key="tele_getnetworkoperatorname" value="LG Telecom" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45006" />
+<item key="tele_getsimoperatorname" value="LG Telecom" />
+<item key="tele_getsimserialnumber" value="89029133077732964507" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="158044165039441" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SM-N920P Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="b5:47:00:1d:63:8f" />
+<item key="wifiinfo_getmacaddress" value="54:51:1b:9b:f6:4d" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="c23c2e" />
+<item key="status" value="t" />
+</phones>

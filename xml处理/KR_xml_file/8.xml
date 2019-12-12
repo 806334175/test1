@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2381" />
+<item key="google_adid" value="8f5357a4-7a11-450e-9608-c3b6ac4ccb53" />
+<item key="build_id" value="NRD90M" />
+<item key="build_display" value="JOP40C" />
+<item key="build_incremental" value="1C9E" />
+<item key="build_sdk_int" value="24" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="7.0" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G955U" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S8+
+" />
+<item key="build_device" value="FC00C" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S8+
+/FC00C:7.0/NRD90M/1C9E:user/user" />
+<item key="build_serial" value="SM-G955U" />
+<item key="build_hardware" value="SM-G955U" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="649431b5a793da74" />
+<item key="tele_getdeviceid" value="043765876040481" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45005" />
+<item key="tele_getnetworkoperatorname" value="SK Telecom" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45005" />
+<item key="tele_getsimoperatorname" value="SK Telecom" />
+<item key="tele_getsimserialnumber" value="89018402295152362878" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="855874442648583" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 7.0; SM-G955U Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="41:0a:33:92:c7:88" />
+<item key="wifiinfo_getmacaddress" value="4c:f9:5d:90:cb:40" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="796daff2" />
+<item key="status" value="t" />
+</phones>

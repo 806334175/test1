@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3895" />
+<item key="google_adid" value="d9aa3d7c-2763-4fce-abf1-992180f4da09" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IMM76L" />
+<item key="build_incremental" value="732F736EA" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="SM-G930A" />
+<item key="build_brand" value="Galaxy" />
+<item key="build_product" value="Galaxy S7
+" />
+<item key="build_device" value="2BDC2" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Samsung" />
+<item key="build_fingerprint" value="Galaxy/Galaxy S7
+/2BDC2:6.0.1/MMB29M/732F736EA:user/user" />
+<item key="build_serial" value="SM-G930A" />
+<item key="build_hardware" value="SM-G930A" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="0a261a0b7b4d5846" />
+<item key="tele_getdeviceid" value="207827246973954" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="KR" />
+<item key="tele_getnetworkoperator" value="45005" />
+<item key="tele_getnetworkoperatorname" value="SK Telecom" />
+<item key="tele_getnetworktype" value="0" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="KR" />
+<item key="tele_getsimoperator" value="45005" />
+<item key="tele_getsimoperatorname" value="SK Telecom" />
+<item key="tele_getsimserialnumber" value="89000824022659000032" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="162968997096894" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG-SM-G930A Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="93:73:f8:3b:1b:e4" />
+<item key="wifiinfo_getmacaddress" value="6c:d6:8a:4f:6e:15" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="390eefd5c1d2" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="3749" />
+<item key="google_adid" value="130267c0-dd7c-478c-94c3-de00c41a3f98" />
+<item key="build_id" value="MXB48T" />
+<item key="build_display" value="GRI40" />
+<item key="build_incremental" value="2DDAFE858AC4" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="LGLS755" />
+<item key="build_brand" value="X" />
+<item key="build_product" value="X Power
+" />
+<item key="build_device" value="217B1" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="LG" />
+<item key="build_fingerprint" value="X/X Power
+/217B1:6.0.1/MXB48T/2DDAFE858AC4:user/user" />
+<item key="build_serial" value="LGLS755" />
+<item key="build_hardware" value="LGLS755" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="889cc2bb27d71a65" />
+<item key="tele_getdeviceid" value="120094880083598" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="TW" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="8" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="TW" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89040122967594688299" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="460124650675975" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; LGLS755 Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="15:48:81:66:96:a2" />
+<item key="wifiinfo_getmacaddress" value="60:be:b5:98:d5:0c" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="d1567c" />
+<item key="status" value="t" />
+</phones>

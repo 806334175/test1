@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2470" />
+<item key="google_adid" value="92f2f34b-d7a3-45e8-87e6-94501e9a99ce" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IMM76J" />
+<item key="build_incremental" value="7A6DD464" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="E1003" />
+<item key="build_brand" value="OnePlus" />
+<item key="build_product" value="X
+" />
+<item key="build_device" value="7865F" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="OnePlus" />
+<item key="build_fingerprint" value="OnePlus/X
+/7865F:6.0.1/MMB29M/7A6DD464:user/user" />
+<item key="build_serial" value="E1003" />
+<item key="build_hardware" value="E1003" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="db423b8bf2736343" />
+<item key="tele_getdeviceid" value="199420699063806" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="HK" />
+<item key="tele_getnetworkoperator" value="311480" />
+<item key="tele_getnetworkoperatorname" value="Verizon Wireless" />
+<item key="tele_getnetworktype" value="1" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="HK" />
+<item key="tele_getsimoperator" value="311480" />
+<item key="tele_getsimoperatorname" value="Verizon Wireless" />
+<item key="tele_getsimserialnumber" value="89052157374122769899" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="972409823771532" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; ONE E1003 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="ba:4f:27:3f:e4:66" />
+<item key="wifiinfo_getmacaddress" value="60:e3:ac:62:24:72" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="d9c1b0140187" />
+<item key="status" value="t" />
+</phones>

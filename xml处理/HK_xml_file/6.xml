@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="1217" />
+<item key="google_adid" value="ff1b8c92-6c6b-4d57-bea1-9bc80a655531" />
+<item key="build_id" value="MMB29M" />
+<item key="build_display" value="IMM76E" />
+<item key="build_incremental" value="A1F2A6ED0CE34" />
+<item key="build_sdk_int" value="23" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="6.0.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="N9519" />
+<item key="build_brand" value="Warp" />
+<item key="build_product" value="Warp 7
+" />
+<item key="build_device" value="32B07" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="ZTE" />
+<item key="build_fingerprint" value="Warp/Warp 7
+/32B07:6.0.1/MMB29M/A1F2A6ED0CE34:user/user" />
+<item key="build_serial" value="N9519" />
+<item key="build_hardware" value="N9519" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="23fe43c5358bda9e" />
+<item key="tele_getdeviceid" value="762342796848989" />
+<item key="tele_getdevicesoftwareversion" value="03" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="HK" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="2" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="HK" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89075111434917245700" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="995567862867689" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 6.0.1; N9519 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3202.84 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="39:af:55:c0:dd:cb" />
+<item key="wifiinfo_getmacaddress" value="9c:c7:d1:c4:ef:22" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="1a3133a" />
+<item key="status" value="t" />
+</phones>

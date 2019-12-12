@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="2478" />
+<item key="google_adid" value="52eb0ae3-4b6a-410a-914b-64868b6cd1aa" />
+<item key="build_id" value="LMY47O" />
+<item key="build_display" value="GRI40" />
+<item key="build_incremental" value="5D37084DCB1732" />
+<item key="build_sdk_int" value="22" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="HTCD100LVWPP" />
+<item key="build_brand" value="Desire" />
+<item key="build_product" value="Desire 526
+" />
+<item key="build_device" value="6A401" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="HTC" />
+<item key="build_fingerprint" value="Desire/Desire 526
+/6A401:5.1/LMY47O/5D37084DCB1732:user/user" />
+<item key="build_serial" value="HTCD100LVWPP" />
+<item key="build_hardware" value="HTCD100LVWPP" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="442496036078469d" />
+<item key="tele_getdeviceid" value="327268517586553" />
+<item key="tele_getdevicesoftwareversion" value="02" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="US" />
+<item key="tele_getnetworkoperator" value="310260" />
+<item key="tele_getnetworkoperatorname" value="T-Mobile USA" />
+<item key="tele_getnetworktype" value="3" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="US" />
+<item key="tele_getsimoperator" value="310260" />
+<item key="tele_getsimoperatorname" value="T-Mobile USA" />
+<item key="tele_getsimserialnumber" value="89090253619060164742" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="745876768257101" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.1; HTCD100LVWPP Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Mobile Safari/537.36" />
+<item key="wifiinfo_getbssid" value="0e:27:8d:13:52:a3" />
+<item key="wifiinfo_getmacaddress" value="24:44:27:d0:0e:ce" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="b1d39a073a1" />
+<item key="status" value="t" />
+</phones>

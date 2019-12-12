@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phones>
+<item key="id" value="5414" />
+<item key="google_adid" value="211ce965-64f3-4c72-a664-7607bb3662a8" />
+<item key="build_id" value="100.0.1c10" />
+<item key="build_display" value="GRJ22" />
+<item key="build_incremental" value="010E697E5E71" />
+<item key="build_sdk_int" value="22" />
+<item key="build_codename" value="REL" />
+<item key="build_release" value="5.1" />
+<item key="build_type" value="user" />
+<item key="build_user" value="user" />
+<item key="build_host" value="" />
+<item key="build_tags" value="release-keys" />
+<item key="build_model" value="KYT31" />
+<item key="build_brand" value="Qua" />
+<item key="build_product" value="Qua Tab
+" />
+<item key="build_device" value="06580" />
+<item key="build_board" value="" />
+<item key="build_cpu_abi" value="armeabi-v7a" />
+<item key="build_cpu_abi2" value="armeabi" />
+<item key="build_manufacturer" value="Kyocera" />
+<item key="build_fingerprint" value="Qua/Qua Tab
+/06580:5.1/100.0.1c10/010E697E5E71:user/user" />
+<item key="build_serial" value="KYT31" />
+<item key="build_hardware" value="KYT31" />
+<item key="build_bootloader" value="" />
+<item key="settings_secure_android_id" value="c6407050c868593f" />
+<item key="tele_getdeviceid" value="558569045801452" />
+<item key="tele_getdevicesoftwareversion" value="01" />
+<item key="tele_getline1number" value="" />
+<item key="tele_getnetworkcountryiso" value="JP" />
+<item key="tele_getnetworkoperator" value="44010" />
+<item key="tele_getnetworkoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getnetworktype" value="0" />
+<item key="tele_getphonetype" value="1" />
+<item key="tele_getsimcountryiso" value="JP" />
+<item key="tele_getsimoperator" value="44010" />
+<item key="tele_getsimoperatorname" value="NTT DoCoMo, Inc." />
+<item key="tele_getsimserialnumber" value="89003893268537614172" />
+<item key="tele_getsimstate" value="5" />
+<item key="tele_getsubscriberid" value="073601069639941" />
+<item key="web_useragent" value="Mozilla/5.0 (Linux; Android 5.1; KYT31 Build/100.0.1c10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Safari/537.36" />
+<item key="wifiinfo_getbssid" value="d2:c7:d3:fb:8e:29" />
+<item key="wifiinfo_getmacaddress" value="f4:f1:e1:ac:91:d6" />
+<item key="wifiinfo_getnetworkid" value="" />
+<item key="wifiinfo_getssid" value="b72eb8af631c" />
+<item key="status" value="t" />
+</phones>

@@ -1,0 +1,585 @@
+{
+"code": 0,
+"message": "success",
+"current": 15,
+"page": 1,
+"next_page": false,
+"total_pages": 1,
+"data": [
+{
+"app_category": "Entertainment",
+"app_desc": "",
+"app_name": "Vodafone Play -Movies TV Shows Live TV Videos Free",
+"app_pack_name": "com.vodafone.vodafoneplay",
+"black_subs": [ ],
+"cap_daily": 50,
+"click_url": "http://clk.holasong.com/click?id=815107&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"IN"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 815107,
+"images": [
+{
+"pixel": "1200x627",
+"url": "https://static.youappi.com/creatives/Apps/71025/2be1ccceacbffa6114817bf56adc099c.jpg"
+},
+{
+"pixel": "768x1024",
+"url": "https://static.youappi.com/creatives/Apps/71025/25d2abba8ca7ed139a8cca48611aa915.jpg"
+},
+{
+"pixel": "728x90",
+"url": "https://static.youappi.com/creatives/Apps/71025/b7650e529431ae9d166fb34b8043a404.jpg"
+}
+],
+"incentive": "Non Incentive",
+"name": "Vodafone Play - Free Live TV, Movies & TV Series",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 0.248,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.vodafone.vodafoneplay&hl=en-us&gl=in",
+"r_cap_daily": 0
+},
+{
+"app_category": "Action",
+"app_desc": "",
+"app_name": "ガール?カフェ?ガン",
+"app_pack_name": "1469166240",
+"black_subs": [ ],
+"cap_daily": 20,
+"click_url": "http://clk.holasong.com/click?id=1079650&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"JP"
+],
+"currency": "USD",
+"d_type": "ITUNES",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 1079650,
+"images": [
+{
+"pixel": "640x100",
+"url": "https://static.youappi.com/creatives/Apps/94183/a4c3301fdb2142eafdd56071ad696ddd.gif"
+},
+{
+"pixel": "600x500",
+"url": "https://static.youappi.com/creatives/Apps/94183/469bf0beafca5522643e5df41d40112a.jpg"
+},
+{
+"pixel": "1200x628",
+"url": "https://static.youappi.com/creatives/Apps/94183/9071da5fd7aabfc5e38489a255320283.jpg"
+}
+],
+"incentive": "Non Incentive",
+"name": "ガール?カフェ?ガン",
+"need_deviceid": "YES",
+"os": "IOS",
+"payout": 1.536,
+"payout_type": "CPI",
+"preview_url": "https://apps.apple.com/jp/app/%E3%82%AC%E3%83%BC%E3%83%AB-%E3%82%AB%E3%83%95%E3%82%A7-%E3%82%AC%E3%83%B3/id1469166240?l=en&uo=4",
+"r_cap_daily": 0
+},
+{
+"app_category": "Action",
+"app_desc": "",
+"app_name": "ガール?カフェ?ガン",
+"app_pack_name": "jp.Marvelous.girlcafegun",
+"black_subs": [ ],
+"cap_daily": 20,
+"click_url": "http://clk.holasong.com/click?id=1079649&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"JP"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 1079649,
+"images": [
+{
+"pixel": "640x100",
+"url": "https://static.youappi.com/creatives/Apps/94185/61a87588cafe71c39d29090158877b8e.gif"
+},
+{
+"pixel": "600x500",
+"url": "https://static.youappi.com/creatives/Apps/94185/072d72466a13ca158f0c227d2ef22429.jpg"
+},
+{
+"pixel": "288x288",
+"url": "https://static.youappi.com/creatives/Apps/94185/default/edd18299364687ef73a829d7a39f2191.png"
+}
+],
+"incentive": "Non Incentive",
+"name": "ガール?カフェ?ガン",
+"need_deviceid": "YES",
+"os": "ANDROID",
+"payout": 1.536,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=jp.Marvelous.girlcafegun&hl=en-us&gl=jp",
+"r_cap_daily": 0
+},
+{
+"app_category": "Sports",
+"app_desc": "",
+"app_name": "ぼくらの甲子園！ポケット　高校野球ゲーム",
+"app_pack_name": "com.kayac.koshien_pocket",
+"black_subs": [ ],
+"cap_daily": 0,
+"click_url": "http://clk.holasong.com/click?id=1007782&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"JP"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "◆◆初心者大歓迎！超応援キャンペーン中！◆◆\n初心者のスタートダッシュを応援中！\n今なら星5やきゅう道具が確定で手に入る！\n----------------------\n◆◆あなたも今日から高校球児！◆◆\n高校野球の選手になって、\n仲間とわいわい協力して甲子園優勝をめざせ！\nNo.1高校野球アプリ！青春スポーツRPG！\n----------------------\n◆◆ポジションを選んでゲームスタート！◆◆\nまずはポジションを選ぼう。エースをめざす？\nピッチャー？正捕手？内野手、外野手も面白い！\nかんたん操作で自分好みの選手に育成！\n----------------------\n◆◆全国4000校の中から選ぼう！◆◆\nレギュラーになりやすい高校を選ぶか、\n勝ち抜ける強豪校か、わいわいまったりの高校か、\nそれとも地元の高校でナインを組むか。\n所属する学校選びも重要だ！\n----------------------\n◆◆キミらしいキャラ&装備で試合に臨め！◆◆\n熱血坊主から爽やか少年、女子野球部員まで\n個性豊かなキャラの中から好きな部員を選ぼう！\nグローブやバット、スパイクはもちろん、\n帽子やユニフォームなど、多彩な野球用品を\n自分好みにきせかえよう！\n----------------------\n◆◆スゴロクでかんたん野球練習！◆◆\n「ボードゲーム」と「ミニゲーム」が組み合わ\nさる新感覚な簡単野球練習システムで、テンポよく\nサクサク成長！カードや練習施設を使ったり、\nサイコロを振って強くなろう！\n----------------------\n◆◆ここ一番で、スキルを発動しよう！◆◆\n「雷神投法」「安打製造機」「鉄壁守備」\n「監督より伝令」など、試合の途中経過を見て、\nパワフルなスキルを発動だ！\n多彩なやきゅう道具のスキルを駆使して、\nホームランを狙え！\n試合中は、チャットで仲間と作戦会議！\n勝利のカギはチームワーク！\n戦略を立てて全国の野球部と対戦だ！\n----------------------\n◆◆多彩なキャラがキミを全力で応援するぞ◆◆\n困ったとき助けてくれるマネージャーあかね、\nやきゅう道具を強化をしてくれる大工の源さんや、\n掛布じいさん、保健室の先生など、学校や街\n（プロ野球で使われる立派なスタジアムも）、\n試合外に登場するキャラたちが\nキミを応援してくれるぞ！\n----------------------\n＿人人人人人人人人人人人人人人人人人人人人＿\n＞　　　キミは、永遠に高校球児だ！　　　　＜\n＞　　　この世界のどこかにいる仲間たちと　＜\n＞　　　ドリームチームを組み、練習し、　　＜\n＞　　　声をかけあい、勝ち上がれ！　　　　＜\n＞　　　ひとりでは味わえない勝利の喜びが　＜\n＞　　　キミを待っているぞ！　　　　　　　＜\n￣^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣",
+"id": 1007782,
+"incentive": "Non Incentive",
+"name": "ぼくらの甲子園！ポケット　高校野球ゲーム",
+"need_deviceid": "YES",
+"os": "ANDROID",
+"payout": 4.800,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.kayac.koshien_pocket&hl=en-us&gl=jp",
+"r_cap_daily": 0
+},
+{
+"app_category": "Puzzle",
+"app_desc": "",
+"app_name": "???3",
+"app_pack_name": "com.sundaytoz.kakao.anipang3.service",
+"black_subs": [ ],
+"cap_daily": 100,
+"click_url": "http://clk.holasong.com/click?id=1080436&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"KR"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 1080436,
+"images": [
+{
+"pixel": "648x340",
+"url": "https://static.youappi.com/creatives/Apps/73126/default/645d8fef3664e60d27b9c32a40987c0e.jpg"
+},
+{
+"pixel": "1200x628",
+"url": "https://static.youappi.com/creatives/Apps/73126/ca3080b122206eafcd4f1f4a326140b7.jpeg"
+},
+{
+"pixel": "1200x627",
+"url": "https://static.youappi.com/creatives/Apps/73126/0600632bd4db74b28a1510ee124bae1b.jpeg"
+}
+],
+"incentive": "Non Incentive",
+"name": "???3",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 0.480,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.sundaytoz.kakao.anipang3.service&hl=en-us&gl=kr",
+"r_cap_daily": 0
+},
+{
+"app_category": "Lifestyle",
+"app_desc": "",
+"app_name": "Carlife Square コスモのアプリ入れトク!",
+"app_pack_name": "jp.co.cosmo_oil",
+"black_subs": [ ],
+"cap_daily": 50,
+"click_url": "http://clk.holasong.com/click?id=815213&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"JP"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 815213,
+"images": [
+{
+"pixel": "1200x628",
+"url": "https://static.youappi.com/creatives/Apps/90177/e2fe86ab7558fd5f8e96eb047603f870.jpg"
+},
+{
+"pixel": "288x288",
+"url": "https://static.youappi.com/creatives/Apps/90177/default/9dc62b6d324a194225f63c5b8fd3e79f.png"
+}
+],
+"incentive": "Non Incentive",
+"name": "Carlife Square コスモのアプリ入れトク!",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 1.472,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=jp.co.cosmo_oil&hl=en-us&gl=jp",
+"r_cap_daily": 0
+},
+{
+"app_category": "Role Playing",
+"app_desc": "",
+"app_min_ver": "5.0",
+"app_name": "????&?? ????",
+"app_pack_name": "com.netmarble.bnsmkr",
+"black_subs": [ ],
+"cap_daily": 50,
+"click_url": "http://clk.holasong.com/click?id=547475&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"KR"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "Hard KPI (1) D2 RR 30%(2) create_character 10%(3) CTIT 10sec less(4) KR(country) only accepted / KR carrier only accepted / Korean(Language) only accepted (5) Fraud trafficExample) There is no any in-app event (such as completion of tutorial, log-in) with high retention / Spoofing (abnormal SDK) / Abnormal user pattern (no more action at certain level, no more action at the first step with high retention)",
+"icons": [
+{
+"pixel": "512x512",
+"url": "https://lh3.googleusercontent.com/ZVCQrF-OKn3gwokEi7E86LXvchAqL6wFx4fEj5oLRpPlJIJ1a0WVgqJ0vfCjEGdgFw"
+}
+],
+"id": 547475,
+"images": [ ],
+"incentive": "Non Incentive",
+"name": "hard KPI_Blade and soul-KR-AND",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 1.600,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.netmarble.bnsmkr&hl=en-us&gl=kr",
+"r_cap_daily": 0,
+"traffic_allow": [
+"wifi",
+"2G",
+"3G",
+"4G"
+]
+},
+{
+"app_category": "Sports",
+"app_desc": "",
+"app_name": "FanDuel: Daily Fantasy Sports",
+"app_pack_name": "com.fanduel.android.self",
+"black_subs": [ ],
+"cap_daily": 50,
+"click_url": "http://clk.holasong.com/click?id=815124&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"US"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 815124,
+"images": [
+{
+"pixel": "300x50",
+"url": "https://static.youappi.com/creatives/Apps/66166/eb4b4d3240e837562e272ab437c03af3.jpg"
+},
+{
+"pixel": "300x250",
+"url": "https://static.youappi.com/creatives/Apps/66166/30e8ae83e00145186a209edf83ed9791.jpg"
+},
+{
+"pixel": "648x340",
+"url": "https://static.youappi.com/creatives/Apps/66166/default/ab1224378ec84d5f491ac35682b7f834.jpg"
+}
+],
+"incentive": "Non Incentive",
+"name": "FanDuel Fantasy Football & more",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 1.011,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.fanduel.android.self&hl=en-us&gl=us",
+"r_cap_daily": 0
+},
+{
+"app_category": "Tools",
+"app_desc": "",
+"app_name": "NordVPN: Best VPN Fast, Secure & Unlimited",
+"app_pack_name": "com.nordvpn.android",
+"black_subs": [ ],
+"cap_daily": 249,
+"click_url": "http://clk.holasong.com/click?id=821571&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"US"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 821571,
+"images": [
+{
+"pixel": "600x800",
+"url": "https://static.youappi.com/creatives/Apps/78612/528cacfd7497896889ebd6058edc60f4.jpg"
+},
+{
+"pixel": "768x1024",
+"url": "https://static.youappi.com/creatives/Apps/78612/1839a3a0821b8e2d171b8fbe4c0bfc15.jpg"
+},
+{
+"pixel": "1200x800",
+"url": "https://static.youappi.com/creatives/Apps/78612/7caf7b7a87bb17f17a6a45b7b7b32d8d.jpg"
+}
+],
+"incentive": "Non Incentive",
+"name": "NordVPN: Best VPN Fast, Secure & Unlimited",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 1.920,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.nordvpn.android&hl=en-us&gl=au",
+"r_cap_daily": 0
+},
+{
+"app_category": "Lifestyle",
+"app_desc": "",
+"app_name": "QuickThoughts: Take Surveys Earn Gift Card Rewards",
+"app_pack_name": "com.surveysampling.mobile.quickthoughts",
+"black_subs": [ ],
+"cap_daily": 50,
+"click_url": "http://clk.holasong.com/click?id=815106&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"AU"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 815106,
+"images": [
+{
+"pixel": "300x50",
+"url": "https://static.youappi.com/creatives/Apps/56358/1408d4f141045595d5510c4d10bcab99.jpg"
+},
+{
+"pixel": "300x250",
+"url": "https://static.youappi.com/creatives/Apps/56358/9d242923e82dc8bfe5bc6e751690e15a.jpg"
+},
+{
+"pixel": "468x60",
+"url": "https://static.youappi.com/creatives/Apps/56358/e7ef405e97bfc324f247cb3a618ff134.jpg"
+}
+],
+"incentive": "Non Incentive",
+"name": "QuickThoughts: Take Surveys Earn Gift Card Rewards",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 2.560,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.surveysampling.mobile.quickthoughts&hl=en-us&gl=es",
+"r_cap_daily": 0
+},
+{
+"app_category": "Card",
+"app_desc": "",
+"app_min_ver": "5.1",
+"app_name": "TEPPEN",
+"app_pack_name": "jp.gungho.teppen",
+"black_subs": [ ],
+"cap_daily": 20,
+"click_url": "http://clk.holasong.com/click?id=1080410&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"JP"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 1080410,
+"images": [
+{
+"pixel": "1200x628",
+"url": "https://static.youappi.com/creatives/Apps/89661/63e230f6e8e58fb6de5acfe8aff1844e.jpg"
+},
+{
+"pixel": "600x500",
+"url": "https://static.youappi.com/creatives/Apps/89661/c9f0e11651607fab6bb883ed95584aa6.jpg"
+},
+{
+"pixel": "1280x720",
+"url": "https://static.youappi.com/creatives/Apps/89661/d7f6ea382726118d220f4922bb9ae947.mp4"
+}
+],
+"incentive": "Non Incentive",
+"name": "TEPPEN",
+"need_deviceid": "YES",
+"os": "ANDROID",
+"payout": 1.280,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=jp.gungho.teppen&hl=en-us&gl=us",
+"r_cap_daily": 0
+},
+{
+"app_category": "Card",
+"app_desc": "",
+"app_name": "TEPPEN",
+"app_pack_name": "1460764653",
+"black_subs": [ ],
+"cap_daily": 20,
+"click_url": "http://clk.holasong.com/click?id=1080409&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"JP"
+],
+"currency": "USD",
+"d_type": "ITUNES",
+"desc": "kpi:Day 1 Retention Rate: min 30 %Day 7 Retention Rate: min 10 %",
+"icons": [ ],
+"id": 1080409,
+"images": [
+{
+"pixel": "1200x628",
+"url": "https://static.youappi.com/creatives/Apps/89501/a7d757c67fcf2ee17ed3525066d61307.jpg"
+},
+{
+"pixel": "600x500",
+"url": "https://static.youappi.com/creatives/Apps/89501/d34de389a5cf50feabcc15b5ca8bd319.jpg"
+},
+{
+"pixel": "1280x720",
+"url": "https://static.youappi.com/creatives/Apps/89501/920ca3679eb65d3d2bb04e5887c5d537.mp4"
+}
+],
+"incentive": "Non Incentive",
+"name": "TEPPEN",
+"need_deviceid": "YES",
+"os": "IOS",
+"payout": 1.280,
+"payout_type": "CPI",
+"preview_url": "https://apps.apple.com/us/app/teppen/id1460764653?uo=4",
+"r_cap_daily": 0
+},
+{
+"app_category": "Role Playing",
+"app_desc": "",
+"app_name": "???? ???! Re:Dive",
+"app_pack_name": "com.kakaogames.pcr",
+"black_subs": [ ],
+"cap_daily": 35,
+"click_url": "http://clk.holasong.com/click?id=973001&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"KR"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "Hard KPI: [login(1)] < [20]%, subject to[20] + installs, by [subpartner], by [day]----------------------------------------------------------------------------------------------------------* Please notice that for offers with Hard KPI condition, the sources who don't reach the KPI will not get paid. Also, Fraudulent/Incentivized traffic will be 100% deducted, regardless of reaching the KPI Condition / KPI Type.  * Detailed Fraud rules per Attribution tool  AppsFlyer: Languages, Carriers, Devices deviating from Targeted Geos / Defined as Fraud by the functions featured in Protect 360(New Devices, LAT Devices, Suspicious Devices, etc.) TUNE/MAT: Languages, Carriers, Devices deviating from Targeted Geos / Defined as “Suspicious” in TUNE Fraud Status Adjust: Languages, Carriers, Devices deviating from Targeted Geos / SDK Spoofing traffic * All conversions will be evaluated on its Click to Install Time(CTIT), and traffic that converts within 10 seconds can be deducted due to Click Injection Fraud.",
+"id": 973001,
+"incentive": "Non Incentive",
+"name": "CPI-???????(Princess)-Android-KR-Game",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 0.680,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.kakaogames.pcr&hl=en-us&gl=kr",
+"r_cap_daily": 0,
+"traffic_allow": [
+"E-Mailings",
+"No Incentive",
+"Push Notifications",
+"Search",
+"Social Networks",
+"Wifi Traffic"
+],
+"traffic_forbidden": [
+"Adult",
+"Incentive",
+"Redirect Traffic"
+]
+},
+{
+"app_category": "Role Playing",
+"app_desc": "",
+"app_name": "Dragon Sky",
+"app_pack_name": "com.manacore.mod",
+"black_subs": [ ],
+"cap_daily": 35,
+"click_url": "http://clk.holasong.com/click?id=973003&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"KR"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "[Soft KPI]ROAS 30%[Hard KPI] +1D Retention Rate < 10% or Registration Rate < 10% the corresponding installs will not be charged. (daily sub pub basis) ** If there is some suspicious traffics with prudential proof, we may request you to deduct installs   There are some deduction at the end of the month as advertiser's request based on the Fraud Tool 'DataVisor'【Traffic Restriction】No Free-Recharge apps traffic / No SMS, Email / No Adult traffic / No Bot Traffic (No repeated IP) / No incentive traffic / No Influencer / No Facebook / No Google / No 4shared / No Appwall traffic / No traffic from ilbe.com?* Please notice that for offers with Hard KPI condition, the sources who don't reach the KPI will not get paid. Also, Fraudulent/Incentivized traffic will be 100% deducted, regardless of reaching the KPI Condition / KPI Type.  * Detailed Fraud rules per Attribution tool  AppsFlyer: Languages, Carriers, Devices deviating from Targeted Geos / Defined as Fraud by the functions featured in Protect 360(New Devices, LAT Devices, Suspicious Devices, etc.) TUNE/MAT: Languages, Carriers, Devices deviating from Targeted Geos / Defined as “Suspicious” in TUNE Fraud Status Adjust: Languages, Carriers, Devices deviating from Targeted Geos / SDK Spoofing traffic * All conversions will be evaluated on its Click to Install Time(CTIT), and traffic that converts within 10 seconds can be deducted due to Click Injection Fraud.",
+"id": 973003,
+"incentive": "Non Incentive",
+"name": "CPI-Dragon sky-Android-KR-Game",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 1.864,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.manacore.mod&hl=en-us&gl=kr",
+"r_cap_daily": 0,
+"traffic_allow": [
+"E-Mailings",
+"No Incentive",
+"Push Notifications",
+"Search",
+"Social Networks",
+"Wifi Traffic"
+],
+"traffic_forbidden": [
+"Adult",
+"Incentive",
+"Redirect Traffic"
+]
+},
+{
+"app_category": "Role Playing",
+"app_desc": "",
+"app_name": "King's Raid",
+"app_pack_name": "com.vespainteractive.KingsRaid",
+"black_subs": [ ],
+"cap_daily": 35,
+"click_url": "http://clk.holasong.com/click?id=973005&aff=137&ost=1570526829",
+"conv_flow": "CPI Download,Install&Open",
+"countries": [
+"KR"
+],
+"currency": "USD",
+"d_type": "GP",
+"desc": "KPI: D1 Retention rate over 30% , Tutorial over 50%Deduction Guide:1. D1 RR below 15% (20 daily installs/sub-pub)2. Registration below 30%  (20 monthly installs/sub-pub)3. Fraud traffic - CTIT below 10 seconds, CTIT over 24 hours - Carrier unknown / mismatch : Unkwon, KT+Freetel+Co.Ltd/ LGT/ olleh/ SK+Telecom+Co.+Ltd/ SKT/ SK+Telecom (Normal Carrier : KT, SKTelecom, LG U+ (LG+U%2B)) - Other geo - Device mismatch - USN mismatch (Data provide)Restrictions:* No Emulator - Bluestack, Nox * Non-Incent Traffic, No Influencer Channel, No pop-up or alarm traffic * Please do not advertise on the following sites&app https://www.ilbe.com, http://www.todayhumor.co.kr, http://www.huvle.com, http://www.adlix.co.kr* illegal websites (P2P, online chatting site, 4share)* Please notice that for offers with Hard KPI condition, the sources who don't reach the KPI will not get paid. Also, Fraudulent/Incentivized traffic will be 100% deducted, regardless of reaching the KPI Condition / KPI Type. * Detailed Fraud rules per Attribution toolAppsFlyer: Languages, Carriers, Devices deviating from Targeted Geos / Defined as Fraud by the functions featured in Protect 360(New Devices, LAT Devices, Suspicious Devices, etc.) TUNE/MAT: Languages, Carriers, Devices deviating from Targeted Geos / Defined as “Suspicious” in TUNE Fraud Status Adjust: Languages, Carriers, Devices deviating from Targeted Geos / SDK Spoofing traffic* All conversions will be evaluated on its Click to Install Time(CTIT), and traffic that converts within 10 seconds can be deducted due to Click Injection Fraud.",
+"id": 973005,
+"incentive": "Non Incentive",
+"name": "CPI-KING's RAID(?????)-Android-KR-Game",
+"need_deviceid": "NO",
+"os": "ANDROID",
+"payout": 1.600,
+"payout_type": "CPI",
+"preview_url": "https://play.google.com/store/apps/details?id=com.vespainteractive.KingsRaid&hl=en-us&gl=tw",
+"r_cap_daily": 0,
+"traffic_allow": [
+"E-Mailings",
+"No Incentive",
+"Search",
+"Social Networks",
+"Wifi Traffic"
+],
+"traffic_forbidden": [
+"Adult",
+"Incentive",
+"Push Notifications",
+"Redirect Traffic"
+]
+}
+]
+}
