@@ -84,8 +84,13 @@ def getinfolistbypage(token, page, size):
 
 
 if __name__ == '__main__':
-
+    # Eason
     token = "c09086a9d4004648a96097e282598d75"
+    # 3673
+    # token = "e1235a3fcebe4a89a5b2e3df35847b33"
+    # 3854
+    # token = "bd8b2f5e652e4eef835968bcf116c5b8"
+
     size = "1000"
 
     list_app_name = []

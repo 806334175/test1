@@ -79,19 +79,22 @@ def check_offer(UserAgent, Cookie, offerid):
     session = requests.session()
     response = session.post(url, headers=HEADERS)
     soup = BeautifulSoup(response.text, 'lxml')  # 创建 beautifulsoup 对象
+
+    # print(response.text)
     res = soup.find_all("script", {"type": "text/javascript"})
     try:
         country = re.findall('countries":\["(.*)"\],"currency', str(res[14]))[0]
+
     except IndexError as e:
         country = None
-
+    # print(res)
     res_number = soup.find_all(type="number", class_="col-xs-10 col-sm-9")
     for k in res_number:
         if k["name"] == "price":
             res_price = k["value"]
 
     res = soup.find_all(type="text", class_="col-xs-10 col-sm-9")
-    print(res)
+    # print(res)
     for k in res:
         try:
             if k["name"] == "packageName":
@@ -109,7 +112,7 @@ def check_offer(UserAgent, Cookie, offerid):
         except KeyError as e:
             res_offer_id = k["value"]
 
-    print("[" + offerid + "]packageName：" + res_id + "\n" + "[" + offerid + "]trackUrl：" + res_trackUrl + "\n" + "[" + offerid + "]offer_id:" + offerid)
+    # print("[" + offerid + "]packageName：" + res_id + "\n" + "[" + offerid + "]trackUrl：" + res_trackUrl + "\n" + "[" + offerid + "]offer_id:" + offerid)
     return res_offerName, res_prodName, res_id, res_price, country, res_previewLink, res_trackUrl
 
 
@@ -125,6 +128,7 @@ def check_begin(cookie, offer_id, num):
         finally:
             lock.release()
             # pass
+
         ww += 1
 
 

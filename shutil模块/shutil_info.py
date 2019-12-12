@@ -8,7 +8,7 @@ import shutil
 
 # # shutil.copyfileobj(fsrc, fdst[, length])
 # # 将文件内容拷贝到另一个文件中--------------------
-# shutil.copyfileobj(open('old.xml', 'r', encoding="UTF-8"), open('new.xml', 'w', encoding="UTF-8")) # 目标文件无需存在
+# shutil.copyfileobj(open('old.TW_xml_file', 'r', encoding="UTF-8"), open('new.TW_xml_file', 'w', encoding="UTF-8")) # 目标文件无需存在
 #
 # # shutil.copyfile(src, dst)
 # # 拷贝文件------------------------

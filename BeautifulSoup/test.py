@@ -11,6 +11,7 @@ import time
 from xlutils import copy
 import re
 import queue
+from multiprocessing import pool
 
 file = "D:\\offer_check.xls"
 
